@@ -1,0 +1,1473 @@
+1
+00:00:05,000 --> 00:00:09,944
+Welcome back. This is Session Four,
+Learning Design. You’ll find the session
+
+2
+00:00:09,944 --> 00:00:13,966
+summary on page seventeen of your
+Participant Guide. Have your
+
+3
+00:00:13,966 --> 00:00:18,976
+classroom-day map, rhythm audit and Carry
+into design card from Session Three
+
+4
+00:00:18,976 --> 00:00:23,855
+beside you. We’re going to use what you
+noticed to make one small, testable
+
+5
+00:00:23,855 --> 00:00:28,470
+change in a classroom routine. The
+direction matters: we begin with the
+
+6
+00:00:28,470 --> 00:00:32,821
+students and their experience, then
+consider what can change in the
+
+7
+00:00:32,821 --> 00:00:37,765
+environment, the task or the routine. What
+we know about a student is useful
+
+8
+00:00:37,765 --> 00:00:43,105
+knowledge for design. It isn’t a list of
+deficits to fix. Keep your Reduce item in
+
+9
+00:00:43,105 --> 00:00:48,116
+view: the barrier or unnecessary demand
+you chose to explore. We’ll work with
+
+10
+00:00:48,116 --> 00:00:53,192
+others to design a response, then each of
+you will check it against the two or
+
+11
+00:00:53,192 --> 00:00:58,268
+three students you have in mind. The aim
+is something practical enough to try,
+
+12
+00:00:58,268 --> 00:00:59,520
+observe and refine.
+
+13
+00:01:01,040 --> 00:01:06,000
+Students come first. Before choosing a
+strategy, return to the real students and
+
+14
+00:01:06,000 --> 00:01:10,457
+the evidence on your day map. What matters
+to them? What is the specific
+
+15
+00:01:10,457 --> 00:01:15,417
+access question? What have you observed,
+and what are you still wondering? We’ll
+
+16
+00:01:15,417 --> 00:01:19,937
+design for one classroom routine, then
+test that design against different
+
+17
+00:01:19,937 --> 00:01:24,708
+students. Keep an observation separate
+from an interpretation, and a question
+
+18
+00:01:24,708 --> 00:01:29,794
+separate from a conclusion. If you don’t
+know how a student experiences something,
+
+19
+00:01:29,794 --> 00:01:33,874
+leave room to find out through
+consultation. A useful design brief
+
+20
+00:01:33,874 --> 00:01:38,708
+connects what matters for students with
+what we can change in the environment,
+
+21
+00:01:38,708 --> 00:01:43,229
+task or routine. It keeps individual
+knowledge in view without reducing a
+
+22
+00:01:43,229 --> 00:01:45,110
+person to their support needs.
+
+23
+00:01:46,641 --> 00:01:51,729
+Here’s how the session runs. We’ll regroup
+into trios, write a brief, and
+
+24
+00:01:51,730 --> 00:01:57,171
+consider a short menu of options. Then
+we’ll apply a universal design lens and
+
+25
+00:01:57,172 --> 00:02:02,754
+finish one practical design change. After
+that, each person will privately check
+
+26
+00:02:02,755 --> 00:02:07,701
+the design against their own students.
+That check will take us into the
+
+27
+00:02:07,702 --> 00:02:13,497
+continuum of support. We’ll finish with a
+gallery and a personal commitment. So the
+
+28
+00:02:13,498 --> 00:02:19,009
+rhythm is short inputs, then doing. The
+trio creates one design together, while
+
+29
+00:02:19,010 --> 00:02:24,593
+each of you keeps your own students in
+view. By the end, you’ll have one routine
+
+30
+00:02:24,594 --> 00:02:29,328
+redesigned, checked against real students,
+and one thing to try. The
+
+31
+00:02:29,329 --> 00:02:34,346
+recording has brief pauses at the activity
+points; pause it for the full
+
+32
+00:02:34,347 --> 00:02:36,748
+working time whenever you need to.
+
+33
+00:02:38,280 --> 00:02:43,383
+Find the Reduce item on your Carry into
+design card. Which kind of routine does
+
+34
+00:02:43,384 --> 00:02:48,619
+it belong to: a rotation, a transition or
+a whole-class routine? If you’re in the
+
+35
+00:02:48,620 --> 00:02:53,788
+workshop room, move to the corner that
+matches your routine type and form a trio
+
+36
+00:02:53,789 --> 00:02:58,827
+with two people nearby. If a corner is
+crowded, make several trios. If someone
+
+37
+00:02:58,828 --> 00:03:03,866
+is on their own, welcome them into a
+nearby group. Each trio needs one A three
+
+38
+00:03:03,867 --> 00:03:08,447
+sheet, and each person needs a My students
+card. Bring your day map and
+
+39
+00:03:08,448 --> 00:03:13,421
+audit with you. Each of you will keep your
+own two or three students in mind,
+
+40
+00:03:13,422 --> 00:03:18,459
+even though you’ll design together. Allow
+a few minutes to move and settle. If
+
+41
+00:03:18,460 --> 00:03:23,629
+you’re following independently, choose one
+of those three routine types and work
+
+42
+00:03:23,630 --> 00:03:28,341
+through the design for your setting. Pause
+the video while you get ready.
+
+43
+00:03:36,361 --> 00:03:41,958
+Let’s settle into our groups. Check that
+your trio has an A three sheet and that
+
+44
+00:03:41,959 --> 00:03:46,848
+each of you has your own My students card.
+You’ll agree on one routine
+
+45
+00:03:46,849 --> 00:03:52,446
+shortly. For now, the shared routine type
+gives you a place to begin; it doesn’t
+
+46
+00:03:52,447 --> 00:03:56,840
+mean all your students experience that
+routine in the same way.
+
+47
+00:03:58,361 --> 00:04:03,647
+Before we begin, bring a concise picture
+of your students back into view. Include
+
+48
+00:04:03,648 --> 00:04:08,934
+their strengths, interests and sources of
+joy. Think about communication, sensory
+
+49
+00:04:08,935 --> 00:04:14,023
+experience and thinking; what costs and
+what lightens; identity and belonging.
+
+50
+00:04:14,024 --> 00:04:18,716
+Include what students, families and the
+team already know, alongside the
+
+51
+00:04:18,717 --> 00:04:23,672
+questions still open. These are prompts to
+hold in mind, not another form to
+
+52
+00:04:23,673 --> 00:04:28,893
+complete. We’re not building a file on one
+child, and we’re not ranking students
+
+53
+00:04:28,894 --> 00:04:33,916
+by need. We’re keeping real, different
+people in view as we design. Later, in
+
+54
+00:04:33,917 --> 00:04:39,071
+the private check, you’ll return to each
+of these students and consider how the
+
+55
+00:04:39,072 --> 00:04:41,780
+same design may work differently for them.
+
+56
+00:04:43,321 --> 00:04:47,614
+Now agree on one routine your trio
+recognises. It might come from one
+
+57
+00:04:47,615 --> 00:04:52,476
+person’s Reduce card. Keep it specific
+enough to work on today. On section one
+
+58
+00:04:52,477 --> 00:04:57,338
+of your A three sheet, complete three
+sentences together. First: ‘This routine
+
+59
+00:04:57,339 --> 00:05:01,947
+asks students to...’ Describe what the
+environment or task requires. Second:
+
+60
+00:05:01,948 --> 00:05:06,935
+‘For some students, that means...’ Connect
+the demand with what you know, and mark
+
+61
+00:05:06,936 --> 00:05:11,481
+what is still a question. Third: ‘We could
+change...’ Name something within
+
+62
+00:05:11,482 --> 00:05:16,154
+educator or school influence. The same
+prompts are on page eighteen of your
+
+63
+00:05:16,155 --> 00:05:20,637
+Participant Guide. Check your wording
+before you finish. Is it specific,
+
+64
+00:05:20,638 --> 00:05:25,436
+workable and free from blame or deficit
+labels? A phrase about what a student
+
+65
+00:05:25,437 --> 00:05:30,550
+won’t do may need to become a description
+of what the routine asks them to manage.
+
+66
+00:05:30,551 --> 00:05:35,665
+Allow about eight minutes. You’re writing
+one brief to keep active for the rest of
+
+67
+00:05:35,666 --> 00:05:39,326
+this session. Pause the video and work
+through it together.
+
+68
+00:05:47,360 --> 00:05:52,355
+Let’s bring that first stage to a close.
+Read your three sentences back to one
+
+69
+00:05:52,356 --> 00:05:57,352
+another. Can you point to the demand in
+the routine and the change within your
+
+70
+00:05:57,353 --> 00:06:02,218
+influence? Have any interpretations
+slipped in as facts? If you need to know
+
+71
+00:06:02,219 --> 00:06:07,345
+more from a student, family or colleague,
+keep that question visible. Your brief
+
+72
+00:06:07,346 --> 00:06:12,146
+can be useful without pretending that
+every part of the picture is settled.
+
+73
+00:06:12,147 --> 00:06:15,780
+Leave it in front of you as we look at
+possible supports.
+
+74
+00:06:17,320 --> 00:06:22,220
+Here are four options to consider with
+your brief in view: executive functioning
+
+75
+00:06:22,221 --> 00:06:27,182
+supports, predictability, schedules and
+visual supports. The option cards on your
+
+76
+00:06:27,183 --> 00:06:32,021
+table carry these headings and the key
+questions, so you can hold and sort them
+
+77
+00:06:32,022 --> 00:06:36,735
+after the inputs. As you listen, keep
+returning to your first sentence: ‘This
+
+78
+00:06:36,736 --> 00:06:41,388
+routine asks students to...’ Which option
+might answer that particular demand?
+
+79
+00:06:41,389 --> 00:06:45,916
+We’ll choose one or two, rather than
+trying to collect every strategy. The
+
+80
+00:06:45,917 --> 00:06:50,445
+value is in the match between the support
+and the access question you have
+
+81
+00:06:50,446 --> 00:06:51,127
+identified.
+
+82
+00:06:52,640 --> 00:06:57,315
+Executive functioning supports can make
+the work of starting, remembering,
+
+83
+00:06:57,316 --> 00:07:02,056
+sequencing, organising and shifting easier
+to manage. Start with the demand
+
+84
+00:07:02,057 --> 00:07:07,181
+in your routine, then ask what would help
+with that demand. If getting started is
+
+85
+00:07:07,182 --> 00:07:11,601
+difficult, could the first step be visible
+and clear? If the task asks
+
+86
+00:07:11,602 --> 00:07:16,662
+students to hold several instructions in
+mind, could the sequence stay available
+
+87
+00:07:16,663 --> 00:07:21,466
+to return to? If organising time and
+materials takes a great deal of effort,
+
+88
+00:07:21,467 --> 00:07:26,143
+could the task make those easier to locate
+and manage? If the challenge is
+
+89
+00:07:26,144 --> 00:07:31,396
+moving between tasks, what information or
+preparation would make the shift clearer?
+
+90
+00:07:31,397 --> 00:07:36,392
+These are support examples to consider,
+not a package every student needs. Look
+
+91
+00:07:36,393 --> 00:07:41,389
+back at your day map and brief. Which
+demand are you actually addressing? Would
+
+92
+00:07:41,390 --> 00:07:46,194
+the support reduce unnecessary effort, or
+add another thing the student must
+
+93
+00:07:46,195 --> 00:07:51,126
+manage? Then consider how the student can
+show or tell you whether it helps. A
+
+94
+00:07:51,127 --> 00:07:56,187
+resource can look organised to an adult
+and still be confusing or burdensome for
+
+95
+00:07:56,188 --> 00:08:01,120
+its intended user. We’re looking for
+better access and participation, with the
+
+96
+00:08:01,121 --> 00:08:05,988
+student’s experience helping us judge
+usefulness. More compliance pressure is
+
+97
+00:08:05,989 --> 00:08:06,757
+not the aim.
+
+98
+00:08:08,280 --> 00:08:13,336
+Predictability means having accessible
+information about routine and change. It
+
+99
+00:08:13,337 --> 00:08:18,653
+doesn’t mean every day must be identical,
+or that we can promise nothing unexpected
+
+100
+00:08:18,654 --> 00:08:23,192
+will happen. Think about how much
+information in a primary classroom is
+
+101
+00:08:23,193 --> 00:08:27,731
+spoken once, implied, or held in an
+adult’s head. If I couldn’t rely on
+
+102
+00:08:27,732 --> 00:08:32,918
+remembering what someone had told me, how
+would I know what was happening here? A
+
+103
+00:08:32,919 --> 00:08:37,975
+useful support helps students answer four
+questions: what is happening, what is
+
+104
+00:08:37,976 --> 00:08:43,163
+changing, what comes next, and what can I
+do if the plan changes? The information
+
+105
+00:08:43,164 --> 00:08:47,701
+needs to arrive early enough to be useful.
+Imagine an assembly has been
+
+106
+00:08:47,702 --> 00:08:52,694
+moved earlier. How will students find out?
+Has the change been made clear on a
+
+107
+00:08:52,695 --> 00:08:57,816
+schedule or another accessible support?
+Can they return to that information, see
+
+108
+00:08:57,817 --> 00:09:02,420
+what follows, and ask a question or
+request help in their preferred way?
+
+109
+00:09:02,421 --> 00:09:07,153
+Another spoken announcement may not answer
+all those needs. Return to your
+
+110
+00:09:07,154 --> 00:09:12,016
+rhythm audit. When something in that
+rhythm changes, how do students know? A
+
+111
+00:09:12,017 --> 00:09:17,009
+visual support is one option, but the
+format needs to fit the people using it.
+
+112
+00:09:17,010 --> 00:09:20,121
+Review it through actual experience and
+feedback.
+
+113
+00:09:21,640 --> 00:09:26,426
+A schedule can make sequence, timing and
+change visible. It gives students
+
+114
+00:09:26,427 --> 00:09:31,409
+information they can return to, rather
+than relying entirely on listening and
+
+115
+00:09:31,410 --> 00:09:36,064
+remembering. Schedules can cover different
+spans: a first-then sequence,
+
+116
+00:09:36,065 --> 00:09:40,982
+one activity, part of the day or the whole
+day. Choose a format the intended
+
+117
+00:09:40,983 --> 00:09:46,162
+student can access and understand. The
+question is whether it shows their actual
+
+118
+00:09:46,163 --> 00:09:51,014
+day, including choices, pauses and
+changes, or only the tasks adults expect
+
+119
+00:09:51,015 --> 00:09:55,735
+them to complete. Make flexibility visible
+too. If something changes, how
+
+120
+00:09:55,736 --> 00:10:00,587
+does the schedule show that? Does it still
+provide useful information after
+
+121
+00:10:00,588 --> 00:10:05,374
+the original plan has changed? Can the
+student see what comes next without
+
+122
+00:10:05,375 --> 00:10:10,029
+needing another spoken explanation? A
+schedule is useful when it reduces
+
+123
+00:10:10,030 --> 00:10:15,143
+uncertainty and supports participation for
+the person using it. Its presence on
+
+124
+00:10:15,144 --> 00:10:20,192
+the wall or desk isn’t enough. Watch it in
+use, invite feedback, and adjust it
+
+125
+00:10:20,193 --> 00:10:23,405
+when it no longer answers the student’s
+questions.
+
+126
+00:10:24,920 --> 00:10:29,702
+With any visual support, start by asking
+what the student needs to find,
+
+127
+00:10:29,703 --> 00:10:34,619
+understand, remember or communicate. Then
+choose a form that can make that
+
+128
+00:10:34,620 --> 00:10:39,604
+information clear. It might be an object,
+photograph, symbol, written word,
+
+129
+00:10:39,605 --> 00:10:44,925
+checklist, map or choice support. Visual
+does not automatically mean accessible.
+
+130
+00:10:44,926 --> 00:10:50,179
+The student needs to understand what it
+represents and be able to use it at the
+
+131
+00:10:50,180 --> 00:10:55,433
+point of need. Keep unnecessary detail
+out, explain how it works, and check its
+
+132
+00:10:55,434 --> 00:11:00,620
+meaning with the student. Page nineteen
+gives four quick-review questions. Can
+
+133
+00:11:00,621 --> 00:11:05,403
+the student understand it? Can they access
+it when they need it? Does it
+
+134
+00:11:05,404 --> 00:11:10,253
+reflect what is actually happening,
+including change? Does it give useful
+
+135
+00:11:10,254 --> 00:11:15,372
+information or a way to respond? Keep
+understanding and expressing in view. A
+
+136
+00:11:15,373 --> 00:11:20,155
+visual support may help someone
+understand, while A A C provides ways to
+
+137
+00:11:20,156 --> 00:11:25,544
+communicate. Access to A A C doesn’t mean
+every spoken instruction or schedule is
+
+138
+00:11:25,545 --> 00:11:30,057
+understood. Keep the student’s
+communication system available during
+
+139
+00:11:30,058 --> 00:11:35,176
+routines, transitions and changes, and
+recognise responses beyond speech. The
+
+140
+00:11:35,177 --> 00:11:40,228
+Visual Supports Checklist and the online
+webinar offer further learning. The
+
+141
+00:11:40,229 --> 00:11:45,213
+checklist is a set of questions for
+personalisation and consultation, not a
+
+142
+00:11:45,214 --> 00:11:50,669
+prescription. Keep asking: does this give
+this student useful information they can
+
+143
+00:11:50,670 --> 00:11:52,690
+understand, access and act on?
+
+144
+00:11:54,200 --> 00:11:58,881
+Return to your brief and the option cards.
+Which one or two options answer
+
+145
+00:11:58,882 --> 00:12:03,305
+it? You’ve heard about executive
+functioning supports, predictability,
+
+146
+00:12:03,306 --> 00:12:08,500
+schedules and visual supports. Sort those
+possibilities against the demand in your
+
+147
+00:12:08,501 --> 00:12:13,310
+routine. Choose one or two. For each,
+write down why it fits: which specific
+
+148
+00:12:13,311 --> 00:12:18,376
+demand does it answer? Record the choice
+and your reason on section two of the A
+
+149
+00:12:18,377 --> 00:12:23,314
+three sheet. You can also follow the
+prompts on page eighteen. Give yourselves
+
+150
+00:12:23,315 --> 00:12:28,316
+about three minutes. If everything seems
+useful, return to the brief and narrow
+
+151
+00:12:28,317 --> 00:12:33,062
+the choice. We’re making a manageable
+response to a known demand. Pause the
+
+152
+00:12:33,063 --> 00:12:34,601
+video for your decision.
+
+153
+00:12:42,640 --> 00:12:47,604
+Let’s come back. Check that you have a
+reason beside each option. Saying that a
+
+154
+00:12:47,605 --> 00:12:52,504
+support is often helpful is different from
+saying what it will make clearer or
+
+155
+00:12:52,505 --> 00:12:56,896
+easier in this routine. Keep that
+connection visible. It will help you
+
+156
+00:12:56,897 --> 00:13:01,415
+explain the design, decide what to
+observe, and revise the support if it
+
+157
+00:13:01,416 --> 00:13:03,770
+doesn’t help in the way you expected.
+
+158
+00:13:05,280 --> 00:13:10,500
+Before you finish the design, let’s apply
+a Universal Design for Learning lens. Can
+
+159
+00:13:10,501 --> 00:13:15,658
+you make important information clear and
+available? Can you offer workable ways to
+
+160
+00:13:15,659 --> 00:13:20,433
+participate and respond? Can you support
+engagement while keeping meaningful
+
+161
+00:13:20,434 --> 00:13:25,463
+challenge in the learning? Knowledge of
+individual students and universal design
+
+162
+00:13:25,464 --> 00:13:30,366
+can inform each other. Something you
+understand about one student’s access may
+
+163
+00:13:30,367 --> 00:13:35,205
+reveal a barrier worth reducing more
+broadly. A broadly available support may
+
+164
+00:13:35,206 --> 00:13:39,980
+then help several students in different
+ways. But the presence of a resource
+
+165
+00:13:39,981 --> 00:13:44,756
+doesn’t guarantee access. Offering another
+format only helps if students can
+
+166
+00:13:44,757 --> 00:13:49,659
+find it, understand it and use it. We’ll
+now examine your emerging design with
+
+167
+00:13:49,660 --> 00:13:53,670
+four practical questions, then test it
+through use and feedback.
+
+168
+00:13:55,200 --> 00:14:00,183
+Use section three of your A three sheet,
+with the prompts on page nineteen. Run
+
+169
+00:14:00,184 --> 00:14:04,974
+four questions over your draft design. Can
+students find and understand what
+
+170
+00:14:04,975 --> 00:14:09,702
+they need? Can they take part in more than
+one way? Can they pause, ask for
+
+171
+00:14:09,703 --> 00:14:14,558
+help or recover? Is the support available
+when demand increases? Consider the
+
+172
+00:14:14,559 --> 00:14:19,095
+details. If help is only available by
+asking aloud, is that workable for
+
+173
+00:14:19,096 --> 00:14:23,503
+everyone using this routine? If
+information is useful at the start but
+
+174
+00:14:23,504 --> 00:14:28,614
+disappears during a transition, will it be
+there when needed? These are questions
+
+175
+00:14:28,615 --> 00:14:33,662
+to test against your setting, rather than
+assumptions about a student. Tick each
+
+176
+00:14:33,663 --> 00:14:38,518
+question as you consider it. Where the
+answer is ‘not yet’, adjust the design
+
+177
+00:14:38,519 --> 00:14:43,182
+before moving on. Allow about six minutes.
+Pause the video while your trio
+
+178
+00:14:43,183 --> 00:14:45,354
+completes the accessibility check.
+
+179
+00:14:53,360 --> 00:14:58,152
+Come back to the changes you made. The
+check should influence the design, not
+
+180
+00:14:58,153 --> 00:15:02,189
+just record that you discussed
+accessibility. Keep any unresolved
+
+181
+00:15:02,190 --> 00:15:06,982
+question beside the plan. This is an
+initial check. You’ll still need to find
+
+182
+00:15:06,983 --> 00:15:11,901
+out what happens when students use the
+support and have a way to give feedback.
+
+183
+00:15:11,902 --> 00:15:16,379
+Access is demonstrated through experience,
+rather than guaranteed by the
+
+184
+00:15:16,380 --> 00:15:18,019
+resource we have prepared.
+
+185
+00:15:19,520 --> 00:15:24,299
+Now finish one practical change on section
+four of your A three sheet. Page
+
+186
+00:15:24,300 --> 00:15:29,208
+twenty of the Participant Guide carries
+the design prompts. Work through five
+
+187
+00:15:29,209 --> 00:15:34,311
+steps. State the barrier or unnecessary
+demand. Describe what will change in the
+
+188
+00:15:34,312 --> 00:15:39,220
+environment, task or routine. Include
+students’ communication and experience.
+
+189
+00:15:39,221 --> 00:15:44,193
+Decide what you will observe. Then set a
+time to review. Keep the change small
+
+190
+00:15:44,194 --> 00:15:48,844
+enough to try. You might change
+information, timing, materials or the way
+
+191
+00:15:48,845 --> 00:15:53,882
+the routine is organised, depending on
+your brief. Be clear about what you hope
+
+192
+00:15:53,883 --> 00:15:58,791
+students will be able to access or do more
+readily. The measure of success is
+
+193
+00:15:58,792 --> 00:16:03,764
+access, rather than compliance. Near the
+end, ask a neighbouring trio to check
+
+194
+00:16:03,765 --> 00:16:08,996
+that your design remains student-centred
+and focused on what educators can change.
+
+195
+00:16:08,997 --> 00:16:14,035
+If you’re working alone, read it again
+from those two perspectives. Prepare one
+
+196
+00:16:14,036 --> 00:16:19,137
+sentence describing the change and the
+access question it addresses. Allow about
+
+197
+00:16:19,138 --> 00:16:23,465
+ten minutes. Pause the video while you
+develop and check the design.
+
+198
+00:16:31,480 --> 00:16:36,122
+Let’s finish the sentence you’re writing
+and come back together. You should have a
+
+199
+00:16:36,123 --> 00:16:40,478
+change you can describe, something to
+observe, and a time to review it. Check
+
+200
+00:16:40,479 --> 00:16:45,006
+that student communication and experience
+are included in how you will judge it.
+
+201
+00:16:45,007 --> 00:16:49,592
+Hold onto your one-sentence description.
+Now we’re going to see what happens when
+
+202
+00:16:49,593 --> 00:16:53,891
+one shared design meets the different
+students each of you has been thinking
+
+203
+00:16:53,892 --> 00:16:54,235
+about.
+
+204
+00:16:55,760 --> 00:17:00,831
+This next part is private. Take your own
+My students card and turn to page
+
+205
+00:17:00,832 --> 00:17:05,765
+twenty-one if you’re using the Participant
+Guide. Use Student A, Student
+
+206
+00:17:05,766 --> 00:17:10,907
+B and Student C, without names or
+identifying details. Consider your trio’s
+
+207
+00:17:10,908 --> 00:17:16,396
+design against each student. Mark Helps,
+No difference, or Needs something more.
+
+208
+00:17:16,397 --> 00:17:21,607
+Treat this as a working judgement based on
+what you know, and keep questions
+
+209
+00:17:21,608 --> 00:17:26,749
+visible where you need the student’s or
+family’s perspective. Between three
+
+210
+00:17:26,750 --> 00:17:32,100
+people, a trio may be holding six to nine
+different students in view. The same
+
+211
+00:17:32,101 --> 00:17:37,658
+design may work differently for each. You
+can share only what you choose, perhaps
+
+212
+00:17:37,659 --> 00:17:43,148
+how many Needs something more marks the
+design collected, without describing the
+
+213
+00:17:43,149 --> 00:17:48,290
+students. Allow about seven minutes for
+your private check and any optional
+
+214
+00:17:48,291 --> 00:17:51,069
+sharing. Pause the video while you work.
+
+215
+00:17:59,080 --> 00:18:03,884
+Let’s return to the shared design. Where
+it helps, the universal approach is doing
+
+216
+00:18:03,885 --> 00:18:07,799
+useful work. Where it makes no difference,
+or where a student needs
+
+217
+00:18:07,800 --> 00:18:12,544
+something more, we have an important next
+question. That doesn’t make the student
+
+218
+00:18:12,545 --> 00:18:17,290
+the problem, and it doesn’t necessarily
+make the whole design a failure. It shows
+
+219
+00:18:17,291 --> 00:18:21,561
+us where targeted support or an individual
+adjustment may be needed. Keep
+
+220
+00:18:21,562 --> 00:18:26,247
+those Needs something more marks in mind
+as we look at the continuum of support.
+
+221
+00:18:27,760 --> 00:18:32,483
+Support is a continuum, rather than one
+intervention that answers every need.
+
+222
+00:18:32,484 --> 00:18:37,270
+Start with an inclusive environment:
+predictable routines, clear expectations,
+
+223
+00:18:37,271 --> 00:18:41,621
+accessible information, and a classroom
+culture where different ways of
+
+224
+00:18:41,622 --> 00:18:45,972
+participating are accepted and valued.
+Then consider universal supports
+
+225
+00:18:45,973 --> 00:18:50,759
+available to many students. Instructions
+can be offered in spoken, written and
+
+226
+00:18:50,760 --> 00:18:55,359
+visual forms. Students may have flexible
+ways to demonstrate learning, with
+
+227
+00:18:55,360 --> 00:18:59,772
+movement breaks or sensory tools available
+when useful. Targeted support
+
+228
+00:18:59,773 --> 00:19:04,621
+responds to a more specific need. For
+example, a small group might benefit from
+
+229
+00:19:04,622 --> 00:19:09,532
+key vocabulary being introduced before a
+lesson, or from additional organisation
+
+230
+00:19:09,533 --> 00:19:13,821
+support during independent work.
+Individual adjustments respond to the
+
+231
+00:19:13,822 --> 00:19:17,924
+particular student’s access and
+participation needs. Examples might
+
+232
+00:19:17,925 --> 00:19:22,586
+include a quieter workspace for an
+assessment, additional processing time, a
+
+233
+00:19:22,587 --> 00:19:27,186
+personalised task breakdown or another way
+to demonstrate learning. What is
+
+234
+00:19:27,187 --> 00:19:32,096
+appropriate depends on the student and the
+context, informed by consultation and
+
+235
+00:19:32,097 --> 00:19:37,132
+evidence. Look back at the design check.
+What is available to everyone? What might
+
+236
+00:19:37,133 --> 00:19:40,986
+need to be targeted? What needs individual
+adjustment? Academic
+
+237
+00:19:40,987 --> 00:19:45,461
+adjustments sit within this wider picture.
+A diagnosis alone doesn’t tell
+
+238
+00:19:45,462 --> 00:19:50,310
+us which adjustment will help. Connect the
+response with your observations, the
+
+239
+00:19:50,311 --> 00:19:54,786
+day map, and student and family knowledge,
+then review it through use and
+
+240
+00:19:54,787 --> 00:19:55,345
+feedback.
+
+241
+00:19:56,880 --> 00:20:01,868
+Reasonable adjustments are changes or
+supports that help students access and
+
+242
+00:20:01,869 --> 00:20:06,391
+participate in education in a way that
+works for them. They should be
+
+243
+00:20:06,392 --> 00:20:11,180
+individualised, build on strengths, remove
+barriers, and be practical and
+
+244
+00:20:11,181 --> 00:20:16,036
+effective. Informed decisions and review
+help us find out whether they are
+
+245
+00:20:16,037 --> 00:20:21,091
+enabling the student. The diagram places
+adjustments within the wider work of
+
+246
+00:20:21,092 --> 00:20:26,479
+environmental design and Universal Design
+for Learning. It also names the four N C
+
+247
+00:20:26,480 --> 00:20:30,869
+C D levels of adjustment: quality
+differentiated teaching practice,
+
+248
+00:20:30,870 --> 00:20:35,991
+supplementary, substantial and extensive.
+Keep two things distinct. Reasonable
+
+249
+00:20:35,992 --> 00:20:41,313
+adjustments are the changes and supports
+provided. The N C C D is the process for
+
+250
+00:20:41,314 --> 00:20:46,701
+collecting information about adjustments
+for students with disability. Evidence of
+
+251
+00:20:46,702 --> 00:20:51,556
+what has been provided and monitored
+matters; a diagnostic label by itself
+
+252
+00:20:51,557 --> 00:20:56,878
+doesn’t choose an adjustment or tell the
+whole story. Within curriculum learning,
+
+253
+00:20:56,879 --> 00:21:01,201
+we want support to build capability,
+confidence, self-advocacy and
+
+254
+00:21:01,202 --> 00:21:06,390
+independence. The question is whether
+students can access and participate, with
+
+255
+00:21:06,391 --> 00:21:11,512
+support that empowers them. For formal
+requirements and decisions, use current
+
+256
+00:21:11,513 --> 00:21:15,037
+official guidance and your school or
+system processes.
+
+257
+00:21:16,560 --> 00:21:21,437
+For N C C D information, use the current
+official guidance alongside your school
+
+258
+00:21:21,438 --> 00:21:25,451
+or system’s consultation, documentation
+and review processes. Make
+
+259
+00:21:25,452 --> 00:21:30,267
+responsibilities clear to the student,
+family and staff involved: what is being
+
+260
+00:21:30,268 --> 00:21:34,898
+tried, who will put it in place, what
+evidence will be gathered, and when it
+
+261
+00:21:34,899 --> 00:21:39,344
+will be reviewed. Keep the connection to
+the educational access question.
+
+262
+00:21:39,345 --> 00:21:44,161
+Documentation should help explain the
+student’s needs, the adjustments provided
+
+263
+00:21:44,162 --> 00:21:48,915
+and what is learned from reviewing them.
+It shouldn’t replace listening to the
+
+264
+00:21:48,916 --> 00:21:53,423
+student or family. Today’s design work
+gives you a starting point for that
+
+265
+00:21:53,424 --> 00:21:57,869
+conversation. It doesn’t replace the
+formal processes in your setting. In
+
+266
+00:21:57,870 --> 00:22:02,747
+Session Five we’ll develop consultation
+and partnership further, including the N
+
+267
+00:22:02,748 --> 00:22:06,946
+C C D meeting tool kit, so keep your open
+questions with your design.
+
+268
+00:22:08,480 --> 00:22:13,408
+It’s time to see what other trios have
+designed. Put your A three sheet on the
+
+269
+00:22:13,409 --> 00:22:18,338
+wall, checking first that it contains no
+student names or identifying details.
+
+270
+00:22:18,339 --> 00:22:23,331
+Walk through the gallery and read a few
+other designs. On another trio’s sheet,
+
+271
+00:22:23,332 --> 00:22:27,940
+leave a Post-it with one idea you would
+borrow or one question. Keep your
+
+272
+00:22:27,941 --> 00:22:32,741
+question curious and useful: something
+that might help the group clarify the
+
+273
+00:22:32,742 --> 00:22:37,607
+access question or refine the change. Then
+return to your own design and read
+
+274
+00:22:37,608 --> 00:22:42,024
+the notes others have left. Allow about
+six minutes. If you’re working
+
+275
+00:22:42,025 --> 00:22:46,889
+independently, use this point to ask a
+colleague for that same brief response
+
+276
+00:22:46,890 --> 00:22:50,090
+when you can. Pause the video for the
+gallery walk.
+
+277
+00:22:58,120 --> 00:23:03,058
+Come back to your own design. Read the
+feedback and consider whether you want to
+
+278
+00:23:03,059 --> 00:23:07,871
+refine anything. You don’t need to adopt
+every suggestion; test it against the
+
+279
+00:23:07,872 --> 00:23:12,435
+brief and the students’ access. The
+gallery lets useful ideas travel, much
+
+280
+00:23:12,436 --> 00:23:17,124
+like our communication wall in Session
+Three. An idea from another group can
+
+281
+00:23:17,125 --> 00:23:22,000
+open a possibility, while still needing to
+fit the students and routine in your
+
+282
+00:23:22,001 --> 00:23:22,500
+setting.
+
+283
+00:23:24,000 --> 00:23:28,910
+To finish, use the bottom of your My
+students card, or the Commit space on
+
+284
+00:23:28,911 --> 00:23:34,360
+page twenty-one. Write one thing you will
+try and who you will involve. Then check
+
+285
+00:23:34,361 --> 00:23:39,137
+four questions. What will you try? What
+will you notice? Who needs to be
+
+286
+00:23:39,138 --> 00:23:44,115
+involved? How will students and families
+help refine it? Keep the next step
+
+287
+00:23:44,116 --> 00:23:49,161
+realistic. It might be a conversation
+needed before you try the change, or a
+
+288
+00:23:49,162 --> 00:23:54,275
+small trial with an agreed review point.
+You can share your commitment with a
+
+289
+00:23:54,276 --> 00:23:59,186
+partner or the group if you choose,
+keeping any public example anonymised.
+
+290
+00:23:59,187 --> 00:24:04,030
+Allow about four minutes. Pause the video
+while you make that commitment.
+
+291
+00:24:12,040 --> 00:24:16,688
+Let’s close by looking at what you have:
+one routine examined, one change
+
+292
+00:24:16,689 --> 00:24:21,724
+designed, and a next step that includes
+other people’s knowledge. Treat this as
+
+293
+00:24:21,725 --> 00:24:26,438
+something to try, review and refine.
+Students and families may help us see
+
+294
+00:24:26,439 --> 00:24:31,216
+something our day map missed, or show that
+a support works differently from
+
+295
+00:24:31,217 --> 00:24:35,800
+what we expected. That is useful
+information for the next version of the
+
+296
+00:24:35,801 --> 00:24:40,385
+design. In Session Five, we’ll move from
+this classroom design work into
+
+297
+00:24:40,386 --> 00:24:45,163
+home-school relationships and positive
+partnership, with the student at the
+
+298
+00:24:45,164 --> 00:24:45,615
+centre.

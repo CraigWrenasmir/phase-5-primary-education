@@ -1,0 +1,118 @@
+{
+  "project_name": "Phase 5 Primary Education - Full workshop - Steve Hogan v2",
+  "voice_name": "Steve Hogan - Australian deep tone",
+  "voice_id": "9B2Vd5yQ7rKaqNmzGdy1",
+  "model": "Eleven Multilingual v2",
+  "settings": {
+    "speed": 0.95,
+    "stability": 0.4,
+    "similarity": 0.75,
+    "style": 0,
+    "speaker_boost": true
+  },
+  "voice_approval": "User confirmed the Multilingual v2 voice sample before authorising full workshop generation.",
+  "narration_style": "Direct simulated workshop facilitation, with activity introductions and debriefs.",
+  "activity_pause_seconds": 8,
+  "original_video_segments": 7,
+  "active_slides": 114,
+  "excluded_hidden_slides": 15,
+  "sessions": [
+    {
+      "session": 1,
+      "title": "The Lens",
+      "narration_segments": 25,
+      "spoken_words": 2622,
+      "script_sha256": "6e2a3eb7bc3bc72f5e69dd97b734ec505e89850372228a198289eae3a85143e3",
+      "all_imported_text_verified_exact_in_browser": true,
+      "all_imported_paragraphs_voice_id_verified": true
+    },
+    {
+      "session": 2,
+      "title": "Understanding Autistic Experience: Sensory and Thinking",
+      "narration_segments": 31,
+      "spoken_words": 3531,
+      "script_sha256": "ee9840f754b37c95d7f472d831f1c154d5a810bc3a8b5a0b0aebc8a8ee64ec0a",
+      "all_imported_text_verified_exact_in_browser": true,
+      "all_imported_paragraphs_voice_id_verified": true
+    },
+    {
+      "session": 3,
+      "title": "Autistic Experience at the Primary School: Communication, Connection and Identity",
+      "narration_segments": 38,
+      "spoken_words": 4349,
+      "script_sha256": "4be03269999809305511c2b5ffa1b704109673c5099e7f848fc21bb0bf809e16",
+      "all_imported_text_verified_exact_in_browser": true,
+      "all_imported_paragraphs_voice_id_verified": true
+    },
+    {
+      "session": 4,
+      "title": "Learning Design",
+      "narration_segments": 29,
+      "spoken_words": 3619,
+      "script_sha256": "914466c307534cb111737b8ab14c9bfaaed1f8ed6254e7448fd5a667a57cf458",
+      "all_imported_text_verified_exact_in_browser": true,
+      "all_imported_paragraphs_voice_id_verified": true
+    },
+    {
+      "session": 5,
+      "title": "Working in Partnership",
+      "narration_segments": 26,
+      "spoken_words": 3611,
+      "script_sha256": "db2a82289c66f511830b4ddd54a34de394a12e12f1aa99910234a98de83913f9",
+      "all_imported_text_verified_exact_in_browser": true,
+      "all_imported_paragraphs_voice_id_verified": true
+    },
+    {
+      "session": 6,
+      "title": "Flourishing and Full Circle",
+      "narration_segments": 16,
+      "spoken_words": 1836,
+      "script_sha256": "ea731a33b1d49a089c555713513d6c09ab5937304109bd25d9642b8a4bbd177a",
+      "all_imported_text_verified_exact_in_browser": true,
+      "all_imported_paragraphs_voice_id_verified": true
+    }
+  ],
+  "provider_captions": "Downloaded chapter SRTs, exact normalized text matches all six final scripts; remapped to the edited video timeline.",
+  "validation_scope_note": "Voice selection is verified by the provider UI and user-approved sample; automated transcription checks wording, not vocal identity.",
+  "delivery": {
+    "status": "complete",
+    "completed_at_utc": "2026-09-25T21:17:08.772061+00:00",
+    "full_workshop_file": "Full Workshop.mp4",
+    "full_workshop_sha256": "849781acf1c038d5769632d886bc6b41c37c658204d5b9292ca372bf2ad10b0d",
+    "duration_seconds": 9050.08,
+    "duration_display": "2:30:50",
+    "chapter_count": 120,
+    "caption_cues": 1625,
+    "session_video_count": 6,
+    "resolution": "1920x1080",
+    "frame_rate": 25,
+    "video_codec": "H.264",
+    "audio_codec": "AAC",
+    "audio_sample_rate": 48000,
+    "audio_channels": 2,
+    "integrated_loudness_lufs": -21.1,
+    "true_peak_dbtp": -2.2,
+    "original_source_pdfs_included": 10
+  },
+  "validation": {
+    "final_readonly_delivery_audit": "PASS",
+    "passed_checks": 165,
+    "failures": [],
+    "all_165_narration_segments_checked_by_local_automated_transcription": true,
+    "all_seven_mp4_embedded_caption_text_and_timings_match_sidecars": true,
+    "source_pdfs_byte_identical": true,
+    "original_video_segments_included_in_full": true,
+    "browser_player_checks": [
+      "session selection",
+      "caption display",
+      "slide search",
+      "jump-to-slide seeking",
+      "full workshop download link"
+    ],
+    "limitations": [
+      "Technical, automated speech and sampled visual/audio checks do not constitute a complete human listening review.",
+      "Direct file URL browser testing was unavailable; localhost player playback and seeking were verified.",
+      "Source placeholders and original footage caption limitations are documented in Read me.md."
+    ]
+  }
+}
