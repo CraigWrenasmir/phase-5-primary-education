@@ -60,8 +60,11 @@
       "id": "s03_sl05_video",
       "slide": 5,
       "kind": "video",
-      "media_path": "s03-slide05-media1.mp4",
-      "source_note": "Original embedded media from Session 3, slide 5; play in full with its original audio."
+      "source_note": "Original embedded media from Session 3, slide 5; play in full with its original audio.",
+      "source_media_file": "s03-slide05-media1.mp4",
+      "published_video": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-3.mp4",
+      "video_start_seconds": 310.4,
+      "video_end_seconds": 641.36
     },
     {
       "id": "s03_sl05_response",
@@ -157,8 +160,11 @@
       "id": "s03_sl11_video",
       "slide": 11,
       "kind": "video",
-      "media_path": "s03-slide11-media2.mp4",
-      "source_note": "Original embedded media from Session 3, slide 11; play in full with its original audio."
+      "source_note": "Original embedded media from Session 3, slide 11; play in full with its original audio.",
+      "source_media_file": "s03-slide11-media2.mp4",
+      "published_video": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-3.mp4",
+      "video_start_seconds": 1122.72,
+      "video_end_seconds": 1166.28
     },
     {
       "id": "s03_sl11_return",
@@ -281,8 +287,11 @@
       "id": "s03_sl20_video",
       "slide": 20,
       "kind": "video",
-      "media_path": "s03-slide20-media3.mp4",
-      "source_note": "Original embedded media from Session 3, slide 20; play in full with its original audio."
+      "source_note": "Original embedded media from Session 3, slide 20; play in full with its original audio.",
+      "source_media_file": "s03-slide20-media3.mp4",
+      "published_video": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-3.mp4",
+      "video_start_seconds": 1717.36,
+      "video_end_seconds": 1806.28
     },
     {
       "id": "s03_sl20_return",
@@ -365,5 +374,6 @@
       "screen_cue": null,
       "source_note": "Session 3, active slide 25; slide text, speaker notes and corresponding facilitator guide."
     }
-  ]
+  ],
+  "publication_note": "Public reference copy: spoken text and cues are unchanged; private production paths are replaced by references to the completed session videos."
 }

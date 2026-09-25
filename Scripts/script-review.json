@@ -13,11 +13,11 @@
       "narrated_slides": 17,
       "spoken_words": 2622,
       "video_insertions": 1,
-      "json_sha256": "6e2a3eb7bc3bc72f5e69dd97b734ec505e89850372228a198289eae3a85143e3",
-      "copy_identical": true,
       "unique_ids": true,
-      "media_paths_exist": true,
-      "activity_pause_and_return_checks": "PASS"
+      "activity_pause_and_return_checks": "PASS",
+      "source_production_script_sha256": "6e2a3eb7bc3bc72f5e69dd97b734ec505e89850372228a198289eae3a85143e3",
+      "public_script_sha256": "022b73967b27b0105ff805d5b86a6108a12a1f1568b07275ed1b4a55b460d8de",
+      "spoken_text_unchanged": true
     },
     {
       "session": 2,
@@ -25,11 +25,11 @@
       "narrated_slides": 23,
       "spoken_words": 3531,
       "video_insertions": 2,
-      "json_sha256": "ee9840f754b37c95d7f472d831f1c154d5a810bc3a8b5a0b0aebc8a8ee64ec0a",
-      "copy_identical": true,
       "unique_ids": true,
-      "media_paths_exist": true,
-      "activity_pause_and_return_checks": "PASS"
+      "activity_pause_and_return_checks": "PASS",
+      "source_production_script_sha256": "ee9840f754b37c95d7f472d831f1c154d5a810bc3a8b5a0b0aebc8a8ee64ec0a",
+      "public_script_sha256": "f1b22d42586131b6b550bb40e6867493b078de60f43159bfbc1f0c75a5e4e492",
+      "spoken_text_unchanged": true
     },
     {
       "session": 3,
@@ -37,11 +37,11 @@
       "narrated_slides": 25,
       "spoken_words": 4349,
       "video_insertions": 3,
-      "json_sha256": "4be03269999809305511c2b5ffa1b704109673c5099e7f848fc21bb0bf809e16",
-      "copy_identical": true,
       "unique_ids": true,
-      "media_paths_exist": true,
-      "activity_pause_and_return_checks": "PASS"
+      "activity_pause_and_return_checks": "PASS",
+      "source_production_script_sha256": "4be03269999809305511c2b5ffa1b704109673c5099e7f848fc21bb0bf809e16",
+      "public_script_sha256": "341cb92e033f1665585e82a9a3b130b7328c675f0845ea28835c1b779d8c9cfd",
+      "spoken_text_unchanged": true
     },
     {
       "session": 4,
@@ -49,11 +49,11 @@
       "narrated_slides": 21,
       "spoken_words": 3619,
       "video_insertions": 0,
-      "json_sha256": "914466c307534cb111737b8ab14c9bfaaed1f8ed6254e7448fd5a667a57cf458",
-      "copy_identical": true,
       "unique_ids": true,
-      "media_paths_exist": true,
-      "activity_pause_and_return_checks": "PASS"
+      "activity_pause_and_return_checks": "PASS",
+      "source_production_script_sha256": "914466c307534cb111737b8ab14c9bfaaed1f8ed6254e7448fd5a667a57cf458",
+      "public_script_sha256": "1dd1258eee44585ac193abe5f22fd9ad90a45ec4f335d0ae63292dbef04cf805",
+      "spoken_text_unchanged": true
     },
     {
       "session": 5,
@@ -61,11 +61,11 @@
       "narrated_slides": 17,
       "spoken_words": 3611,
       "video_insertions": 1,
-      "json_sha256": "db2a82289c66f511830b4ddd54a34de394a12e12f1aa99910234a98de83913f9",
-      "copy_identical": true,
       "unique_ids": true,
-      "media_paths_exist": true,
-      "activity_pause_and_return_checks": "PASS"
+      "activity_pause_and_return_checks": "PASS",
+      "source_production_script_sha256": "db2a82289c66f511830b4ddd54a34de394a12e12f1aa99910234a98de83913f9",
+      "public_script_sha256": "3f957be77def8633c9597479dc8d0a8a2ed8037158b5dce81a483ff8f0bad380",
+      "spoken_text_unchanged": true
     },
     {
       "session": 6,
@@ -73,11 +73,11 @@
       "narrated_slides": 11,
       "spoken_words": 1836,
       "video_insertions": 0,
-      "json_sha256": "ea731a33b1d49a089c555713513d6c09ab5937304109bd25d9642b8a4bbd177a",
-      "copy_identical": true,
       "unique_ids": true,
-      "media_paths_exist": true,
-      "activity_pause_and_return_checks": "PASS"
+      "activity_pause_and_return_checks": "PASS",
+      "source_production_script_sha256": "ea731a33b1d49a089c555713513d6c09ab5937304109bd25d9642b8a4bbd177a",
+      "public_script_sha256": "d46e9627d493164cc0dfb1948b1bf332da372357bd4667cb3383e9ec8fb67b85",
+      "spoken_text_unchanged": true
     }
   ],
   "source_gaps": [
@@ -127,7 +127,7 @@
     "slide": 2,
     "issue": "The source referred back to Autistic flourishing in Session 2 and inclusive classrooms in Session 3, rather than the current session focus.",
     "final_wording": "sensory and thinking in Session Two, communication, connection and identity in Session Three",
-    "state": "Corrected by Session 5 author with root authorisation, source note records correction, final package copied from updated stable JSON."
+    "state": "Corrected to match the current session titles; the source note records the correction."
   },
   "subsequent_source_fidelity_correction": {
     "session": 2,
@@ -135,7 +135,7 @@
       6,
       7
     ],
-    "state": "The sensory-overwhelm source is an animation with no intelligible speech found in local Whisper review by the source-review agent. Root authorised replacement of the spoken introduction/return so they refer to animation, images and sound, and identify the sensory-joy clip separately as a personal account. Final package uses that corrected JSON and includes the three-second post-animation pause."
+    "state": "Local transcription found no intelligible speech in the sensory-overwhelm animation. Its introduction and return refer to animation, images and sound; the sensory-joy clip is identified separately as a personal account. A three-second pause follows the animation."
   },
   "subsequent_narration_clarity_corrections": [
     {
@@ -148,8 +148,9 @@
       "session": 5,
       "segment": "s05_sl13_a",
       "change": "The terms on this slide are meltdown, shutdown, and what the slide calls School Can't. That is, the student cannot attend school.",
-      "reason": "Made the workshop term and its intended meaning explicit in speech. Root authorised and generated the replacement; remaining narration unchanged."
+      "reason": "Made the workshop term and its intended meaning explicit in speech. The replacement was generated and rechecked; remaining narration is unchanged."
     }
   ],
-  "scope_limit": "Source-alignment review, not independent clinical/legal verification or complete listening QA."
+  "scope_limit": "Source-alignment review, not independent clinical/legal verification or complete listening QA.",
+  "publication_note": "This is a public summary of production checks. Published script JSON omits private paths; narration and source-fidelity decisions are retained."
 }

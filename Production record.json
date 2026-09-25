@@ -1,5 +1,4 @@
 {
-  "project_name": "Phase 5 Primary Education - Full workshop - Steve Hogan v2",
   "voice_name": "Steve Hogan - Australian deep tone",
   "voice_id": "9B2Vd5yQ7rKaqNmzGdy1",
   "model": "Eleven Multilingual v2",
@@ -22,54 +21,60 @@
       "title": "The Lens",
       "narration_segments": 25,
       "spoken_words": 2622,
-      "script_sha256": "6e2a3eb7bc3bc72f5e69dd97b734ec505e89850372228a198289eae3a85143e3",
       "all_imported_text_verified_exact_in_browser": true,
-      "all_imported_paragraphs_voice_id_verified": true
+      "all_imported_paragraphs_voice_id_verified": true,
+      "source_production_script_sha256": "6e2a3eb7bc3bc72f5e69dd97b734ec505e89850372228a198289eae3a85143e3",
+      "public_script_sha256": "022b73967b27b0105ff805d5b86a6108a12a1f1568b07275ed1b4a55b460d8de"
     },
     {
       "session": 2,
       "title": "Understanding Autistic Experience: Sensory and Thinking",
       "narration_segments": 31,
       "spoken_words": 3531,
-      "script_sha256": "ee9840f754b37c95d7f472d831f1c154d5a810bc3a8b5a0b0aebc8a8ee64ec0a",
       "all_imported_text_verified_exact_in_browser": true,
-      "all_imported_paragraphs_voice_id_verified": true
+      "all_imported_paragraphs_voice_id_verified": true,
+      "source_production_script_sha256": "ee9840f754b37c95d7f472d831f1c154d5a810bc3a8b5a0b0aebc8a8ee64ec0a",
+      "public_script_sha256": "f1b22d42586131b6b550bb40e6867493b078de60f43159bfbc1f0c75a5e4e492"
     },
     {
       "session": 3,
       "title": "Autistic Experience at the Primary School: Communication, Connection and Identity",
       "narration_segments": 38,
       "spoken_words": 4349,
-      "script_sha256": "4be03269999809305511c2b5ffa1b704109673c5099e7f848fc21bb0bf809e16",
       "all_imported_text_verified_exact_in_browser": true,
-      "all_imported_paragraphs_voice_id_verified": true
+      "all_imported_paragraphs_voice_id_verified": true,
+      "source_production_script_sha256": "4be03269999809305511c2b5ffa1b704109673c5099e7f848fc21bb0bf809e16",
+      "public_script_sha256": "341cb92e033f1665585e82a9a3b130b7328c675f0845ea28835c1b779d8c9cfd"
     },
     {
       "session": 4,
       "title": "Learning Design",
       "narration_segments": 29,
       "spoken_words": 3619,
-      "script_sha256": "914466c307534cb111737b8ab14c9bfaaed1f8ed6254e7448fd5a667a57cf458",
       "all_imported_text_verified_exact_in_browser": true,
-      "all_imported_paragraphs_voice_id_verified": true
+      "all_imported_paragraphs_voice_id_verified": true,
+      "source_production_script_sha256": "914466c307534cb111737b8ab14c9bfaaed1f8ed6254e7448fd5a667a57cf458",
+      "public_script_sha256": "1dd1258eee44585ac193abe5f22fd9ad90a45ec4f335d0ae63292dbef04cf805"
     },
     {
       "session": 5,
       "title": "Working in Partnership",
       "narration_segments": 26,
       "spoken_words": 3611,
-      "script_sha256": "db2a82289c66f511830b4ddd54a34de394a12e12f1aa99910234a98de83913f9",
       "all_imported_text_verified_exact_in_browser": true,
-      "all_imported_paragraphs_voice_id_verified": true
+      "all_imported_paragraphs_voice_id_verified": true,
+      "source_production_script_sha256": "db2a82289c66f511830b4ddd54a34de394a12e12f1aa99910234a98de83913f9",
+      "public_script_sha256": "3f957be77def8633c9597479dc8d0a8a2ed8037158b5dce81a483ff8f0bad380"
     },
     {
       "session": 6,
       "title": "Flourishing and Full Circle",
       "narration_segments": 16,
       "spoken_words": 1836,
-      "script_sha256": "ea731a33b1d49a089c555713513d6c09ab5937304109bd25d9642b8a4bbd177a",
       "all_imported_text_verified_exact_in_browser": true,
-      "all_imported_paragraphs_voice_id_verified": true
+      "all_imported_paragraphs_voice_id_verified": true,
+      "source_production_script_sha256": "ea731a33b1d49a089c555713513d6c09ab5937304109bd25d9642b8a4bbd177a",
+      "public_script_sha256": "d46e9627d493164cc0dfb1948b1bf332da372357bd4667cb3383e9ec8fb67b85"
     }
   ],
   "provider_captions": "Downloaded chapter SRTs, exact normalized text matches all six final scripts; remapped to the edited video timeline.",
@@ -77,7 +82,7 @@
   "delivery": {
     "status": "complete",
     "completed_at_utc": "2026-09-25T21:17:08.772061+00:00",
-    "full_workshop_file": "Full Workshop.mp4",
+    "full_workshop_file": "full-workshop.mp4",
     "full_workshop_sha256": "849781acf1c038d5769632d886bc6b41c37c658204d5b9292ca372bf2ad10b0d",
     "duration_seconds": 9050.08,
     "duration_display": "2:30:50",
@@ -92,7 +97,8 @@
     "audio_channels": 2,
     "integrated_loudness_lufs": -21.1,
     "true_peak_dbtp": -2.2,
-    "original_source_pdfs_included": 10
+    "original_source_pdfs_included": 10,
+    "full_workshop_url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/full-workshop.mp4"
   },
   "validation": {
     "final_readonly_delivery_audit": "PASS",
@@ -113,6 +119,8 @@
       "Technical, automated speech and sampled visual/audio checks do not constitute a complete human listening review.",
       "Direct file URL browser testing was unavailable; localhost player playback and seeking were verified.",
       "Source placeholders and original footage caption limitations are documented in Read me.md."
-    ]
-  }
+    ],
+    "production_browser_test_environment": "Local test server"
+  },
+  "publication_note": "Public provenance record. Private workspace URLs and machine paths have been omitted. Source-production and public-reference script hashes are labelled separately; narration is unchanged."
 }

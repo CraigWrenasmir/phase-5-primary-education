@@ -96,8 +96,11 @@
       "id": "s05_sl07_video",
       "slide": 7,
       "kind": "video",
-      "media_path": "s05-slide07-media1.mp4",
-      "source_note": "Original video embedded in Session 5 slide 7, played once in full with original audio. Duplicate media relationship in source JSON refers to the same file."
+      "source_note": "Original video embedded in Session 5 slide 7, played once in full with original audio. Duplicate media relationship in source JSON refers to the same file.",
+      "source_media_file": "s05-slide07-media1.mp4",
+      "published_video": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-5.mp4",
+      "video_start_seconds": 588.96,
+      "video_end_seconds": 699.88
     },
     {
       "id": "s05_sl07_b",
@@ -243,5 +246,6 @@
       "screen_cue": null,
       "source_note": "Session 5 slide 17: supplied slide, speaker notes and facilitator guide. Spoken adaptation for simulated delivery."
     }
-  ]
+  ],
+  "publication_note": "Public reference copy: spoken text and cues are unchanged; private production paths are replaced by references to the completed session videos."
 }

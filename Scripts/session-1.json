@@ -96,8 +96,11 @@
       "id": "s01_sl08_video",
       "slide": 8,
       "kind": "video",
-      "media_path": "s01-slide08-media1.mp4",
-      "source_note": "Original embedded student-voice footage extracted from Session 1 slide 8; duplicate relationship entries refer to the same asset. Play once, uninterrupted. No description of unverified clip content has been added."
+      "source_note": "Original embedded student-voice footage extracted from Session 1 slide 8; duplicate relationship entries refer to the same asset. Play once, uninterrupted. No description of unverified clip content has been added.",
+      "source_media_file": "s01-slide08-media1.mp4",
+      "published_video": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-1.mp4",
+      "video_start_seconds": 320.4,
+      "video_end_seconds": 461.28
     },
     {
       "id": "s01_sl08_b",
@@ -133,7 +136,7 @@
       "spoken_text": "Let's take a moment with the language on this slide, because it gives us a shared starting point. Neurodiversity is the whole picture. It includes everyone. Neurotypical and neurodivergent describe brain patterns within that diversity, and autism is one expression of it.\n\nHere, neurotypical describes the more common brain patterns. Neurodivergent describes brain patterns that differ from those most common patterns. So both sit within the wider picture of neurodiversity. Keeping those ideas clear helps us use the language consistently through the day.\n\nNow, hold in mind the students you were thinking about earlier. The words can help us ask better questions about their experience, but they won't tell us everything about any one of them. We still need to know that student's interests, their ways of communicating, and what different parts of school are like for them.\n\nWe'll also respect the language people use for themselves. The purpose here is to support dignity and curiosity. As we go, keep asking: does this language help me understand the person in front of me?",
       "post_pause_seconds": 1.5,
       "screen_cue": null,
-      "source_note": "Slide 10 definitions and notes; Facilitator Guide, Session 1 slide 10: neurodiversity includes everyone; consistent terminology; respect self-description; dignity and curiosity. Connecting language to individual students is new spoken wording. The root agent visually inspected the rendered slide 10 diagram and confirmed the more-common/differing-pattern definitions that are embedded in its image rather than the slide XML text."
+      "source_note": "Slide 10 definitions and notes; Facilitator Guide, Session 1 slide 10: neurodiversity includes everyone; consistent terminology; respect self-description; dignity and curiosity. Connecting language to individual students is new spoken wording. Visual review of the supplied slide 10 diagram confirmed the more-common/differing-pattern definitions embedded in its image."
     },
     {
       "id": "s01_sl11_a",
@@ -234,5 +237,6 @@
       "screen_cue": null,
       "source_note": "Session 1, slide 17: supplied slide, speaker notes and matching facilitator guide. New audience-facing adaptation; no participant responses asserted."
     }
-  ]
+  ],
+  "publication_note": "Public reference copy: spoken text and cues are unchanged; private production paths are replaced by references to the completed session videos."
 }

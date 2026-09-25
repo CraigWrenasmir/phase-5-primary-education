@@ -69,10 +69,13 @@
       "id": "s02_sl06_video",
       "slide": 6,
       "kind": "video",
-      "media_path": "s02-slide06-media1.mp4",
       "source_note": "Original embedded sensory-overwhelm footage from Session 2 slide 6. No unseen clip details or participant responses invented. Preserve a three-second quiet moment after the original video before narration resumes, following source guide instruction.",
       "post_pause_seconds": 3,
-      "screen_cue": null
+      "screen_cue": null,
+      "source_media_file": "s02-slide06-media1.mp4",
+      "published_video": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-2.mp4",
+      "video_start_seconds": 321.6,
+      "video_end_seconds": 467.32
     },
     {
       "id": "s02_sl06_b",
@@ -96,8 +99,11 @@
       "id": "s02_sl07_video",
       "slide": 7,
       "kind": "video",
-      "media_path": "s02-slide07-media2.mp4",
-      "source_note": "Original embedded sensory-joy footage from Session 2 slide 7. No unseen clip details or audience responses invented."
+      "source_note": "Original embedded sensory-joy footage from Session 2 slide 7. No unseen clip details or audience responses invented.",
+      "source_media_file": "s02-slide07-media2.mp4",
+      "published_video": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-2.mp4",
+      "video_start_seconds": 500.84,
+      "video_end_seconds": 548.8
     },
     {
       "id": "s02_sl07_b",
@@ -297,5 +303,6 @@
       "screen_cue": null,
       "source_note": "Session 2, slide 23: supplied slide, speaker notes and matching facilitator guide. New audience-facing adaptation; no participant responses asserted."
     }
-  ]
+  ],
+  "publication_note": "Public reference copy: spoken text and cues are unchanged; private production paths are replaced by references to the completed session videos."
 }

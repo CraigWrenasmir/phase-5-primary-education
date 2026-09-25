@@ -2,7 +2,7 @@
 
 Start with [the consolidated delivery script](<Primary Education - Full Facilitation Script.md>).
 
-The six session Markdown files contain the same narration with production cues and source notes. The six JSON files are byte-identical copies of the stable production scripts and retain separate spoken text, pauses, screen cues, media paths and provenance.
+The six session Markdown files contain the same narration with production cues and source notes. The six JSON files are public reference copies of the stable production scripts. Spoken text, pauses and screen cues are unchanged; private machine paths are replaced by references to the completed session videos. Source-production and public-copy hashes are recorded separately.
 
 
 | Session | Title | Active slides | Spoken words | Original clips |
@@ -19,11 +19,11 @@ This is an adaptation of the supplied material. Originals remain authoritative a
 
 ## Files
 
-- Session 1: [readable script](session-1.md) · [production JSON](session-1.json)
-- Session 2: [readable script](session-2.md) · [production JSON](session-2.json)
-- Session 3: [readable script](session-3.md) · [production JSON](session-3.json)
-- Session 4: [readable script](session-4.md) · [production JSON](session-4.json)
-- Session 5: [readable script](session-5.md) · [production JSON](session-5.json)
-- Session 6: [readable script](session-6.md) · [production JSON](session-6.json)
+- Session 1: [readable script](session-1.md) · [reference JSON](session-1.json)
+- Session 2: [readable script](session-2.md) · [reference JSON](session-2.json)
+- Session 3: [readable script](session-3.md) · [reference JSON](session-3.json)
+- Session 4: [readable script](session-4.md) · [reference JSON](session-4.json)
+- Session 5: [readable script](session-5.md) · [reference JSON](session-5.json)
+- Session 6: [readable script](session-6.md) · [reference JSON](session-6.json)
 
-The JSON video paths point to extracted local production assets. If the production workspace moves, update those paths before reusing the JSON. No audio or video is included in this folder.
+The JSON video references identify the session recording and the time of each original clip. The finished videos are available from the workshop resource page; no separate audio or video files are duplicated in this script folder.

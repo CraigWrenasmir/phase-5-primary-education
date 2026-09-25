@@ -6,7 +6,7 @@ Read only the text under **Narration** aloud. Session and slide headings, segmen
 
 Activity working time is represented by a brief **eight-second pause**. The on-screen cue invites participants to pause the recording for the full activity and resume for the debrief. Where the spoken script gives a longer working time, that is time for participants to take while playback is paused. No audience answers are simulated.
 
-Original embedded footage is inserted at the marked points with its original audio. The script does not replace or paraphrase the speakers’ testimony. Video filenames identify the extracted source assets; exact local production paths are preserved in the JSON. The original videos are not duplicated in this script folder.
+Original embedded footage is inserted at the marked points with its original audio. The script does not replace or paraphrase the speakers’ testimony. Video filenames identify the supplied source assets. The public JSON gives their locations in the completed session recordings. The original clips are not duplicated in this script folder.
 
 New examples, transitions and spoken explanations are adaptations. Source notes identify their grounding and any illustrative wording. Source gaps are marked explicitly below and at the relevant slide. The generic Acknowledgement of Country avoids unconfirmed local Custodian names; local delivery should follow the organisation’s protocol.
 

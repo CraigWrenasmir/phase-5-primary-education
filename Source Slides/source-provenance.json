@@ -5,73 +5,73 @@
       "session": 1,
       "role": "Original provided slide PDF",
       "file": "PL Primary - Session 1 - The Lens.pdf",
-      "source_file": "PL Primary - Session 1 - The Lens.pdf",
       "source_sha256": "ac36a554a40a5e59f87ad0b2d98399c1b885c3cc7509999bcee8d4fcc36aa622",
       "copy_sha256": "ac36a554a40a5e59f87ad0b2d98399c1b885c3cc7509999bcee8d4fcc36aa622",
       "byte_identical": true,
       "pages": 17,
       "active_source_slides": 17,
-      "bytes": 5806098
+      "bytes": 5806098,
+      "source_filename": "PL Primary - Session 1 - The Lens.pdf"
     },
     {
       "session": 2,
       "role": "Original provided slide PDF",
       "file": "PL Primary - Session 2 - Understanding Autistic Experience.pdf",
-      "source_file": "PL Primary - Session 2 - Understanding Autistic Experience.pdf",
       "source_sha256": "d746a848333755295b2205a11706a7701cc92383a5bfdcdfce6bbefe6908847a",
       "copy_sha256": "d746a848333755295b2205a11706a7701cc92383a5bfdcdfce6bbefe6908847a",
       "byte_identical": true,
       "pages": 23,
       "active_source_slides": 23,
-      "bytes": 5446837
+      "bytes": 5446837,
+      "source_filename": "PL Primary - Session 2 - Understanding Autistic Experience.pdf"
     },
     {
       "session": 3,
       "role": "Original provided slide PDF",
       "file": "PL Primary - Session 3 - Autistic Experience at the Primary School.pdf",
-      "source_file": "PL Primary - Session 3 - Autistic Experience at the Primary School.pdf",
       "source_sha256": "03b4f66b3281b030247c99e33d19ebfb0dee7e5f283196aa030edf9347542acb",
       "copy_sha256": "03b4f66b3281b030247c99e33d19ebfb0dee7e5f283196aa030edf9347542acb",
       "byte_identical": true,
       "pages": 25,
       "active_source_slides": 25,
-      "bytes": 8216408
+      "bytes": 8216408,
+      "source_filename": "PL Primary - Session 3 - Autistic Experience at the Primary School.pdf"
     },
     {
       "session": 4,
       "role": "Original provided slide PDF",
       "file": "PL Primary - Session 4 - Learning Design.pdf",
-      "source_file": "PL Primary - Session 4 - Learning Design.pdf",
       "source_sha256": "5960df8ca4ba3c606f194558c62bce16ac4480489306e6cefc7b712dfed33493",
       "copy_sha256": "5960df8ca4ba3c606f194558c62bce16ac4480489306e6cefc7b712dfed33493",
       "byte_identical": true,
       "pages": 21,
       "active_source_slides": 21,
-      "bytes": 1400020
+      "bytes": 1400020,
+      "source_filename": "PL Primary - Session 4 - Learning Design.pdf"
     },
     {
       "session": 5,
       "role": "Original provided slide PDF",
       "file": "PL Primary - Session 5 - Working in Partnership.pdf",
-      "source_file": "PL Primary - Session 5 - Working in Partnership.pdf",
       "source_sha256": "1dc0f99fb7b4b30687b0b00d19efa645808d8305705bca753d7741b7e156d847",
       "copy_sha256": "1dc0f99fb7b4b30687b0b00d19efa645808d8305705bca753d7741b7e156d847",
       "byte_identical": true,
       "pages": 17,
       "active_source_slides": 17,
-      "bytes": 3824406
+      "bytes": 3824406,
+      "source_filename": "PL Primary - Session 5 - Working in Partnership.pdf"
     },
     {
       "session": 6,
       "role": "Original provided slide PDF",
       "file": "PL Primary - Session 6 - Flourishing and Full Circle.pdf",
-      "source_file": "PL Primary - Session 6 - Flourishing and Full Circle.pdf",
       "source_sha256": "12e3bb93badd307ee1c0ecbcad55e2ccd3c4dbef521405d9df77eea5968da531",
       "copy_sha256": "12e3bb93badd307ee1c0ecbcad55e2ccd3c4dbef521405d9df77eea5968da531",
       "byte_identical": true,
       "pages": 11,
       "active_source_slides": 11,
-      "bytes": 2099505
+      "bytes": 2099505,
+      "source_filename": "PL Primary - Session 6 - Flourishing and Full Circle.pdf"
     }
   ]
 }
