@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-27",
+  "scope": "Affirmative opening narration",
+  "workshop": "Primary Education",
+  "voice": "Steve Hogan",
+  "sessions": [
+    {
+      "session": 1,
+      "slide": 1,
+      "segment_id": "s01_sl01_a",
+      "new_sentence": "We value students as they are and support their participation and belonging.",
+      "opening_start_seconds": 5,
+      "opening_end_seconds": 49.814,
+      "web": {
+        "url": "media/session-1.mp4?v=5132045ef84c",
+        "bytes": 48136877,
+        "sha256": "5132045ef84cd0cc7e59a8f89b1c73f095c82443f56edb995dbd9a54ccf13c46"
+      },
+      "download": {
+        "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-1.mp4",
+        "bytes": 131632664,
+        "sha256": "e8a6224fbf38eecfbf3c5ab79ee3e976f6b69757f4868bfd005e0e41c088d5cd"
+      },
+      "checks": {
+        "video_packets_and_timestamps_unchanged": true,
+        "audio_packets_and_timestamps_unchanged_outside_openings": true,
+        "duration_unchanged": true,
+        "chapters_unchanged": true,
+        "embedded_caption_text_matches": true,
+        "unwanted_wording_absent": true
+      }
+    },
+    {
+      "session": 4,
+      "slide": 1,
+      "segment_id": "s04_sl01_a",
+      "new_sentence": "It helps us understand each student in context.",
+      "opening_start_seconds": 5,
+      "opening_end_seconds": 59.52,
+      "web": {
+        "url": "media/session-4.mp4?v=3ff322ca3b87",
+        "bytes": 42419420,
+        "sha256": "3ff322ca3b87b522d4ed8cc86890af85bb771a24ee3afdc1ea74d03c4563709a"
+      },
+      "download": {
+        "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-4.mp4",
+        "bytes": 107223710,
+        "sha256": "98774afad874ee9c0a8b401bd6d1fd0f1032f0e3b70872cfb42c33c74bb20c24"
+      },
+      "checks": {
+        "video_packets_and_timestamps_unchanged": true,
+        "audio_packets_and_timestamps_unchanged_outside_openings": true,
+        "duration_unchanged": true,
+        "chapters_unchanged": true,
+        "embedded_caption_text_matches": true,
+        "unwanted_wording_absent": true
+      }
+    }
+  ],
+  "combined_download": {
+    "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/full-workshop.mp4",
+    "bytes": 1140617670,
+    "sha256": "fb9fd325aacf6b2765243f0c525cbdea3cd2cc9cac6f44670f3a502c61669da6"
+  },
+  "preservation": {
+    "all_video_packets_unchanged": true,
+    "all_audio_packets_unchanged_outside_openings": true,
+    "chapter_and_slide_timing_unchanged": true,
+    "positive_autistic_identity_replacement_preserved": true
+  },
+  "source_documents": "Original downloadable source documents remain unchanged."
+}
