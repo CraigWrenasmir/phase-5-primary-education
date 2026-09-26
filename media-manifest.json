@@ -18,8 +18,8 @@
     {
       "name": "session-3.mp4",
       "source_filename": "Session 3 - Autistic Experience at the Primary School.mp4",
-      "size": 346790555,
-      "sha256": "e6fd1ed329bef8b90702d29633c6f784a482dce5d4dba6a7e8caa0eb2d5994e0",
+      "size": 346507142,
+      "sha256": "2ea98a8b8bfeaa0f2f3d6d07ae9adfd2683e822261465c5004eb5b4b1852ecc3",
       "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-3.mp4"
     },
     {
@@ -46,8 +46,8 @@
     {
       "name": "full-workshop.mp4",
       "source_filename": "Full Workshop.mp4",
-      "size": 1140900112,
-      "sha256": "849781acf1c038d5769632d886bc6b41c37c658204d5b9292ca372bf2ad10b0d",
+      "size": 1140622791,
+      "sha256": "6ef2941cd7b1e66e4a340c2a3ddbff066953e9ef5a571a5a21f0bc1e2cc05f35",
       "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/full-workshop.mp4"
     }
   ]

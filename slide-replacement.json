@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-27",
+  "workshop": "Primary Education",
+  "session": 3,
+  "slide": 25,
+  "scope": "Positive Autistic Identity visual replacement",
+  "replacement": {
+    "url": "assets/positive-autistic-identity.png",
+    "bytes": 343061,
+    "sha256": "af03c421a58546af77c17856550c0d39d0952fef0c0f1f67645a58a7c67c13fe"
+  },
+  "source_documents": "Original downloadable source documents remain unchanged.",
+  "frame_rate": 25,
+  "session_interval": {
+    "start_frame": 53870,
+    "end_frame": 56124
+  },
+  "combined_interval": {
+    "start_frame": 126134,
+    "end_frame": 128388
+  },
+  "media": {
+    "session_download": {
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-3.mp4",
+      "bytes": 346507142,
+      "sha256": "2ea98a8b8bfeaa0f2f3d6d07ae9adfd2683e822261465c5004eb5b4b1852ecc3",
+      "previous": {
+        "bytes": 346790555,
+        "sha256": "e6fd1ed329bef8b90702d29633c6f784a482dce5d4dba6a7e8caa0eb2d5994e0"
+      }
+    },
+    "combined_download": {
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/full-workshop.mp4",
+      "bytes": 1140622791,
+      "sha256": "6ef2941cd7b1e66e4a340c2a3ddbff066953e9ef5a571a5a21f0bc1e2cc05f35",
+      "previous": {
+        "bytes": 1140900112,
+        "sha256": "849781acf1c038d5769632d886bc6b41c37c658204d5b9292ca372bf2ad10b0d"
+      }
+    },
+    "web_playback": {
+      "url": "media/session-3.mp4?v=aad195943c75",
+      "bytes": 93633092,
+      "sha256": "aad195943c7542fe4a228c9a99fe2e4b6b22ef81eca2061e7ea5210e721c0cd9",
+      "previous": {
+        "bytes": 93428203,
+        "sha256": "3affcc354578001b3a3800ef23abcce5757ce51e68c7ed8268c25c80e0f6195c"
+      }
+    }
+  },
+  "preservation_checks": {
+    "session_download": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    },
+    "combined_download": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    },
+    "web_playback": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    }
+  }
+}

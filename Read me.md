@@ -22,7 +22,7 @@ Keep the [original Participant Guide](Original%20Guides%20and%20Handouts/PL%20Pr
 
 The original Facilitator Guide, A3 trio sheet and Carry into design card are in **Original Guides and Handouts**. The six original slide PDFs are in **Source Slides**. These PDFs are unchanged copies of the supplied materials. The adapted spoken scripts, with slide references and production cues, are in **Scripts**.
 
-The 15 hidden Session 4 appendix slides are outside the active workshop sequence. Supplied slide designs and embedded footage are preserved. Additional spoken examples are illustrative adaptations.
+The 15 hidden Session 4 appendix slides are outside the active workshop sequence. Slide visuals are retained except for the Positive Autistic Identity slide, updated with the supplied replacement. Embedded footage is preserved. Additional spoken examples are illustrative adaptations.
 
 ### Gaps retained from the supplied materials
 
