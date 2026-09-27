@@ -3,13 +3,13 @@
 
 The Statement of Reconciliation supplied on 27 September 2026 is read aloud after the Acknowledgement of Country in Session 1. Participants are invited to read it in their workbook; the presenter reads it aloud for this demonstration.
 
-A complete simulation of the supplied active workshop: **six sessions, 114 slides and seven original clips**, running **2 hours, 31 minutes and 19 seconds**. The source gaps listed below remain explicit.
+A complete simulation of the supplied active workshop: **six sessions, 115 slides and seven original clips**, running **2 hours, 33 minutes and 8 seconds**. The source gaps listed below remain explicit.
 
 Start with [the workshop player](index.html), or open [the complete video](https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/full-workshop.mp4). The six session MP4 files can also be downloaded and played independently. Browse [all workshop resources](resources.html) for videos, slides, handouts, scripts and captions. No sign-in is required.
 
 | Session | Video running time |
 | --- | --- |
-| 1 — The Lens | 20:06 |
+| 1 — The Lens | 22:24 |
 | 2 — Understanding Autistic Experience | 28:05 |
 | 3 — Autistic Experience at the Primary School | 37:25 |
 | 4 — Learning Design | 24:49 |

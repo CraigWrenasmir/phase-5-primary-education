@@ -2,7 +2,7 @@
 
 [Open the workshop player](https://craigwrenasmir.github.io/phase-5-primary-education/) · [Browse all resources](https://craigwrenasmir.github.io/phase-5-primary-education/resources.html)
 
-The complete 2-hour, 31-minute simulated workshop: six sessions, 114 active slides and seven original video clips, with the user-selected Steve Hogan Australian voice generated in ElevenLabs Multilingual v2. This is AI-generated facilitation for team familiarisation and rehearsal. Activities include brief pauses and prompts to pause the video for longer.
+The complete 2-hour, 33-minute simulated workshop: six sessions, 115 active slides and seven original video clips, with the user-selected Steve Hogan Australian voice generated in ElevenLabs Multilingual v2. This is AI-generated facilitation for team familiarisation and rehearsal. Activities include brief pauses and prompts to pause the video for longer.
 
 The player includes captions and slide navigation. Original slide PDFs, participant and facilitator guides, activity sheets, editable narration scripts and caption files are included. See [viewing notes](Read%20me.md) for source gaps and validation limits.
 

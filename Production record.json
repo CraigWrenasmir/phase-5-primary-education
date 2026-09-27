@@ -130,5 +130,12 @@
     "current_full_workshop_sha256": "6b81445f2b053bd57dcb83496428f2d8edd850117119e9f0a3ad33f85c8732d8",
     "current_duration_seconds": 9078.88,
     "current_duration_display": "2:31:19"
+  },
+  "current_revision": {
+    "record": "dda-dse-session1-revision.json",
+    "active_slides": 115,
+    "duration_seconds": 9187.76,
+    "full_workshop_sha256": "0c2bae93ac2e639740f695ecbbaa8914ca65506a18601db09e50ba14c5767dc6",
+    "note": "Earlier production and validation fields remain historical evidence. This current revision records targeted DDA/DSE changes."
   }
 }

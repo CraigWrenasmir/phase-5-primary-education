@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-28",
+  "scope": "DDA/DSE coverage in Session1. Only affected sessions rebuilt from updated read-only masters; unchanged narration reused.",
+  "workshop": "Primary Education",
+  "basis_commit": "12599e4b21cbec1ef9274060fcdd84643e194398",
+  "source_sessions": [
+    {
+      "session": 1,
+      "pptx": "PL Primary - Session 1 - The Lens.pptx",
+      "pptx_sha256": "1b722cd156eea5afe3567e5c271bfaaa43adf03c838ba5830c1d17c62b8f975c",
+      "pptx_bytes": 51147586,
+      "pdf": "PL Primary - Session 1 - The Lens.pdf",
+      "pdf_sha256": "fc056b729de6994879bd3e733b4796be29a93cde1c8def0d2e916cb4311364e2",
+      "pdf_bytes": 5815719,
+      "source_slides": 18
+    }
+  ],
+  "sessions": [
+    {
+      "number": 1,
+      "duration_seconds": 1343.68,
+      "source_slide_count": 18,
+      "full_sha256": "2d3df53be8e8b1885aaf25449c6e8ca01db6d387da1ea3cd742e764f39696f44",
+      "web_sha256": "9cb075ce7a02f3ab28084fc8c0c2ff1d38db9e2be9b7c41643c814831447b0d6"
+    }
+  ],
+  "combined": {
+    "duration_seconds": 9187.76,
+    "sha256": "0c2bae93ac2e639740f695ecbbaa8914ca65506a18601db09e50ba14c5767dc6",
+    "unchanged_session_picture_data_preserved": true
+  },
+  "total_source_slides": 115,
+  "playback": "Same-site web media. Full-quality Release assets are download-only.",
+  "narration": "Steve Hogan; unaffected narration retained. New or changed narration uses verified source-aligned text.",
+  "notes": "Original earlier revision records are preserved as historical evidence."
+}

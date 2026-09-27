@@ -5,12 +5,12 @@
       "session": 1,
       "role": "Original provided slide PDF",
       "file": "PL Primary - Session 1 - The Lens.pdf",
-      "source_sha256": "ac36a554a40a5e59f87ad0b2d98399c1b885c3cc7509999bcee8d4fcc36aa622",
-      "copy_sha256": "ac36a554a40a5e59f87ad0b2d98399c1b885c3cc7509999bcee8d4fcc36aa622",
+      "source_sha256": "fc056b729de6994879bd3e733b4796be29a93cde1c8def0d2e916cb4311364e2",
+      "copy_sha256": "fc056b729de6994879bd3e733b4796be29a93cde1c8def0d2e916cb4311364e2",
       "byte_identical": true,
-      "pages": 17,
-      "active_source_slides": 17,
-      "bytes": 5806098,
+      "pages": 18,
+      "active_source_slides": 18,
+      "bytes": 5815719,
       "source_filename": "PL Primary - Session 1 - The Lens.pdf"
     },
     {
@@ -72,6 +72,16 @@
       "active_source_slides": 11,
       "bytes": 2099505,
       "source_filename": "PL Primary - Session 6 - Flourishing and Full Circle.pdf"
+    }
+  ],
+  "current_revision": "dda-dse-session1-revision.json",
+  "editable_source_files": [
+    {
+      "session": 1,
+      "file": "PL Primary - Session 1 - The Lens.pptx",
+      "sha256": "1b722cd156eea5afe3567e5c271bfaaa43adf03c838ba5830c1d17c62b8f975c",
+      "bytes": 51147586,
+      "byte_identical_to_updated_master": true
     }
   ]
 }
