@@ -12,14 +12,17 @@
     .pp-logo{display:block;height:36px;width:auto}.brand-sub{border-left:1px solid #ffffff4d;padding-left:16px;font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:#fff}.brand{display:flex;align-items:center;gap:16px;text-decoration:none}@media(max-width:580px){.pp-logo{height:28px}.brand{flex-direction:column;align-items:flex-start;gap:10px}.brand-sub{border-left:0;padding-left:0;font-size:10px}}
     .footer-links{display:flex;flex-wrap:wrap;gap:10px 18px;justify-content:flex-end;align-content:start;max-width:420px}.footer-links a{white-space:nowrap}@media(max-width:800px){.footer-links{justify-content:flex-start;max-width:none}}
     @media(prefers-reduced-motion:no-preference){button,a{transition:background-color .15s,border-color .15s}html{scroll-behavior:smooth}}
-  </style>
+
+/* Consistent return link across workshop pages. */
+.workshop-hub-nav{margin:0 0 20px}.workshop-hub-nav a{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:8px 14px;border:1px solid #ffffff66;border-radius:8px;background:#ffffff0b;color:#fff;font-size:14px;font-weight:600;text-decoration:none}.workshop-hub-nav a:hover{background:#fff;color:#712d90}.workshop-hub-nav a:focus-visible{outline:3px solid #f7941e;outline-offset:4px}
+</style>
 </head>
 <body>
   <a class="skip" href="#main">Skip to the workshop</a>
   <header class="masthead">
     <div class="wrap">
       <div class="topline"><div class="brand"><img class="pp-logo" src="assets/pp-logo-white.svg" alt="Positive Partnerships"><span class="brand-sub">Phase 5 · Professional Learning</span></div><span class="simulation">AI facilitator simulation</span></div>
-      <div class="hero"><p class="eyebrow">A workshop to explore at your pace</p><h1>Primary Education</h1><p>Hear the workshop delivered alongside the slides. Revisit an idea, follow an activity, and build familiarity with the content together.</p></div>
+      <div class="hero"><nav class="workshop-hub-nav" aria-label="Workshop selection"><a href="https://craigwrenasmir.github.io/phase-5-professional-learning/"><span aria-hidden="true">←</span> All workshops</a></nav><p class="eyebrow">A workshop to explore at your pace</p><h1>Primary Education</h1><p>Hear the workshop delivered alongside the slides. Revisit an idea, follow an activity, and build familiarity with the content together.</p></div>
     </div>
   </header>
   <main id="main" class="wrap workspace">
