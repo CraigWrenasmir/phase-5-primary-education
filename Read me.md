@@ -1,7 +1,9 @@
 # Phase 5 — Primary Education
 ## Simulated workshop: viewing notes
 
-A complete simulation of the supplied active workshop: **six sessions, 114 slides and seven original clips**, running **2 hours, 30 minutes and 50 seconds**. The source gaps listed below remain explicit.
+The Statement of Reconciliation supplied on 27 September 2026 is read aloud after the Acknowledgement of Country in Session 1. Participants are invited to read it in their workbook; the presenter reads it aloud for this demonstration.
+
+A complete simulation of the supplied active workshop: **six sessions, 114 slides and seven original clips**, running **2 hours, 31 minutes and 19 seconds**. The source gaps listed below remain explicit.
 
 Start with [the workshop player](index.html), or open [the complete video](https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/full-workshop.mp4). The six session MP4 files can also be downloaded and played independently. Browse [all workshop resources](resources.html) for videos, slides, handouts, scripts and captions. No sign-in is required.
 
@@ -28,7 +30,6 @@ The 15 hidden Session 4 appendix slides are outside the active workshop sequence
 
 | Location | What remains to be supplied or confirmed |
 | --- | --- |
-| Session 1, slide 3 | The organisation’s approved statement of reconciliation. Its absence is acknowledged without inventing wording. |
 | Session 2, slide 17 | The planned young-person video about deep focus and transitions. The simulation identifies the gap and continues with the teaching questions. |
 | Session 4, slides 10, 11, 13 and 19 | Unfinished visual/example placeholders. The narration teaches from the supplied substantive content without pretending that missing examples are visible. |
 | Session 6, slide 6 | Caitlin’s video about teacher belief and success. Its absence is acknowledged before the final reflection. |

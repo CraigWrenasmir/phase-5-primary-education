@@ -122,5 +122,13 @@
     ],
     "production_browser_test_environment": "Local test server"
   },
-  "publication_note": "Public provenance record. Private workspace URLs and machine paths have been omitted. Source-production and public-reference script hashes are labelled separately; narration is unchanged."
+  "publication_note": "Public provenance record. Private workspace URLs and machine paths have been omitted. Source-production and public-reference script hashes are labelled separately; narration is unchanged.",
+  "subsequent_reconciliation_revision": {
+    "date": "2026-09-27",
+    "current_revision_record": "reconciliation-revision.json",
+    "scope_note": "Earlier production, delivery and validation fields describe the original production.",
+    "current_full_workshop_sha256": "6b81445f2b053bd57dcb83496428f2d8edd850117119e9f0a3ad33f85c8732d8",
+    "current_duration_seconds": 9078.88,
+    "current_duration_display": "2:31:19"
+  }
 }

@@ -38,7 +38,6 @@ Word counts cover newly written narration only; they exclude original video dial
 
 | Session / slide | Source gap and treatment |
 | --- | --- |
-| 1 / 3 | The organisation’s approved statement of reconciliation is not included in the supplied source. The narration openly identifies the missing wording; it does not invent an organisational statement. |
 | 2 / 17 | The planned young-person deep-focus/transition clip is not supplied. The narration acknowledges this once and continues with the supplied teaching content. |
 | 4 / 10 | The source slide contains an image placeholder. The narration teaches the supplied schedule content without describing an invented image. |
 | 4 / 11 | The source slide contains an image placeholder. The narration teaches the supplied visual-support content without describing an invented image. |
@@ -81,17 +80,16 @@ I extend that respect to Aboriginal and Torres Strait Islander people taking par
 
 > Source note — not spoken: Session 1 slide 2. Newly written generic Acknowledgement as authorised; does not name unconfirmed local Custodians. Organisation/local protocol remains relevant when delivered in person.
 
-### Slide 3 — Statement of
+### Slide 3 - Statement of Reconciliation
 
-> **Source gap — not spoken:** The organisation’s approved statement of reconciliation is not included in the supplied source. The narration openly identifies the missing wording; it does not invent an organisational statement.
 
 **Narration · `s01_sl03_a`**
 
-At this point in the workshop, we make space for the organisation's statement of reconciliation. The approved statement has not been included in the supplied materials for this recording, so its wording still needs to be added here.
+Our Statement of Reconciliation is in your workbook for you to read. For the sake of this demonstration, I'll read it aloud. We at Positive Partnerships value and recognise the diversity of Aboriginal and Torres Strait Islander cultures and heritage and their proud part in Australia’s national identity. We acknowledge and continue to learn about Australia’s colonial past and the historic and ongoing impacts on Australia’s First Nations people. We believe in and strongly support the Truth-telling of Australia’s colonial history and in moving forward as a nation we must encourage open, honest dialogue and build relationships built on respect and trust.
 
-*Production pause after this narration: 2 seconds.*
+*Production pause after this narration: 2.025 seconds.*
 
-> Source note — not spoken: SOURCE GAP: Slide 3 title and guide require the organisation statement, but provide no wording. PDF slide 3 visually inspected: title and photograph only. This transparent holding narration must not be represented as the organisation statement; replace when approved wording is supplied.
+> Source note — not spoken: The Statement of Reconciliation was supplied and authorised by Craig on 27 September 2026. Its wording is reproduced exactly. The preceding workbook and demonstration introduction is newly authored for this recording.
 
 ### Slide 4 — First Nations people are advised that this workshop may contain images and voices of people who are no longer with us.
 

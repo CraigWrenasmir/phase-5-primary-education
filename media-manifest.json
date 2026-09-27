@@ -4,8 +4,8 @@
     {
       "name": "session-1.mp4",
       "source_filename": "Session 1 - The Lens.mp4",
-      "size": 131632664,
-      "sha256": "e8a6224fbf38eecfbf3c5ab79ee3e976f6b69757f4868bfd005e0e41c088d5cd",
+      "size": 136411545,
+      "sha256": "1a16e4277b1efcc6a3475ef8fb1034d5c0c8321286b67a380e84f19b6d073906",
       "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-1.mp4"
     },
     {
@@ -46,8 +46,8 @@
     {
       "name": "full-workshop.mp4",
       "source_filename": "Full Workshop.mp4",
-      "size": 1140617670,
-      "sha256": "fb9fd325aacf6b2765243f0c525cbdea3cd2cc9cac6f44670f3a502c61669da6",
+      "size": 1145396551,
+      "sha256": "6b81445f2b053bd57dcb83496428f2d8edd850117119e9f0a3ad33f85c8732d8",
       "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/full-workshop.mp4"
     }
   ]

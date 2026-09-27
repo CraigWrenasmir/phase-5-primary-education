@@ -82,11 +82,6 @@
   ],
   "source_gaps": [
     {
-      "session": 1,
-      "slide": 3,
-      "description": "The organisation’s approved statement of reconciliation is not included in the supplied source. The narration openly identifies the missing wording; it does not invent an organisational statement."
-    },
-    {
       "session": 2,
       "slide": 17,
       "description": "The planned young-person deep-focus/transition clip is not supplied. The narration acknowledges this once and continues with the supplied teaching content."
@@ -152,5 +147,11 @@
     }
   ],
   "scope_limit": "Source-alignment review, not independent clinical/legal verification or complete listening QA.",
-  "publication_note": "This is a public summary of production checks. Published script JSON omits private paths; narration and source-fidelity decisions are retained."
+  "publication_note": "This is a public summary of production checks. Published script JSON omits private paths; narration and source-fidelity decisions are retained.",
+  "subsequent_reconciliation_revision": {
+    "date": "2026-09-27",
+    "state": "The supplied statement is now included verbatim in Session 1.",
+    "current_revision_record": "reconciliation-revision.json",
+    "scope_note": "Earlier structural and production hash checks remain historical records."
+  }
 }
