@@ -18,36 +18,36 @@
     {
       "name": "session-3.mp4",
       "source_filename": "Session 3 - Autistic Experience at the Primary School.mp4",
-      "size": 346507142,
-      "sha256": "2ea98a8b8bfeaa0f2f3d6d07ae9adfd2683e822261465c5004eb5b4b1852ecc3",
+      "size": 346507162,
+      "sha256": "0720c670a74823df53e8f5773837e800bdf02f7c85f8ae8f8cc4bf5236cd8321",
       "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-3.mp4"
     },
     {
       "name": "session-4.mp4",
       "source_filename": "Session 4 - Learning Design.mp4",
-      "size": 107223710,
-      "sha256": "98774afad874ee9c0a8b401bd6d1fd0f1032f0e3b70872cfb42c33c74bb20c24",
+      "size": 108967286,
+      "sha256": "3e7f34d1e0bca1d7e6ac2e10237662ac75cfcb23a8138d3a2076459be6028af4",
       "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-4.mp4"
     },
     {
       "name": "session-5.mp4",
       "source_filename": "Session 5 - Working in Partnership.mp4",
-      "size": 143187964,
-      "sha256": "f3461f15979326f0f4850ed7e2885ed8ae2e15e035908aa755dcced23dd95520",
+      "size": 143583666,
+      "sha256": "20ad310c94b8c7b1daf5d4967850ef51aeb650c92f2783b313fa983bbf46158c",
       "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-5.mp4"
     },
     {
       "name": "session-6.mp4",
       "source_filename": "Session 6 - Flourishing and Full Circle.mp4",
-      "size": 58404429,
-      "sha256": "87e3c6665b8bcf403be057a90bbac7ff229c8dab4bd89c84324efdcc143b4b27",
+      "size": 55760663,
+      "sha256": "51da9a421658010708f38388cf24c8516357daff013064afb7fa87d6642346a3",
       "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-6.mp4"
     },
     {
       "name": "full-workshop.mp4",
       "source_filename": "Full Workshop.mp4",
-      "size": 1145396551,
-      "sha256": "6b81445f2b053bd57dcb83496428f2d8edd850117119e9f0a3ad33f85c8732d8",
+      "size": 1144895971,
+      "sha256": "550e6fad0803526071bc807ac711acd3f3aa94a1b9f911ce631a35da5587b812",
       "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/full-workshop.mp4"
     }
   ]

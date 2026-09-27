@@ -1,0 +1,225 @@
+{
+  "updated": "2026-09-27",
+  "scope": "Supplied slide visual replacements in session videos, complete workshop download and published slide PDFs. Audio, captions, timings and source editable decks are unchanged.",
+  "basis_commit": "ef1b49357aa8b136dee50a8bce47cf00fb58e063",
+  "replacements": [
+    {
+      "session": 3,
+      "slide": 25,
+      "title": "Positive Autistic Identity",
+      "requested_start": 2154,
+      "requested_end": 2244,
+      "start": 2154.8,
+      "end": 2244.96,
+      "png_sha256": "af03c421a58546af77c17856550c0d39d0952fef0c0f1f67645a58a7c67c13fe",
+      "chapter_title": "Positive Autistic Identity",
+      "site_image": "assets/slide-updates/session-3-slide-25.png",
+      "pdf": "Source Slides/PL Primary - Session 3 - Autistic Experience at the Primary School.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 10,
+      "title": "Schedules",
+      "requested_start": 561,
+      "requested_end": 624,
+      "start": 561.64,
+      "end": 624.92,
+      "png_sha256": "55c62a9e74e1f5cc561c07704c1230468ea5b69e3e353843571d07d4c41b8519",
+      "chapter_title": "Schedules",
+      "site_image": "assets/slide-updates/session-4-slide-10.png",
+      "pdf": "Source Slides/PL Primary - Session 4 - Learning Design.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 11,
+      "title": "Visual supports",
+      "requested_start": 624,
+      "requested_end": 714,
+      "start": 624.92,
+      "end": 714.2,
+      "png_sha256": "02bd687f31fb05976322e929f9791d649a6a85a66e003bc41356d13f34927159",
+      "chapter_title": "Visual supports",
+      "site_image": "assets/slide-updates/session-4-slide-11.png",
+      "pdf": "Source Slides/PL Primary - Session 4 - Learning Design.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 13,
+      "title": "Universal Design for Learning",
+      "requested_start": 785,
+      "requested_end": 835,
+      "start": 785.28,
+      "end": 835.2,
+      "png_sha256": "c5021be8edfd9b73a25d066af3c996cfcca0ec8a5b71e0641441c3ee32d4ff27",
+      "chapter_title": "Universal Design for Learning",
+      "site_image": "assets/slide-updates/session-4-slide-13.png",
+      "pdf": "Source Slides/PL Primary - Session 4 - Learning Design.pdf"
+    },
+    {
+      "session": 4,
+      "slide": 19,
+      "title": "NCCD",
+      "requested_start": 1276,
+      "requested_end": 1328,
+      "start": 1276.56,
+      "end": 1328.48,
+      "png_sha256": "a2f8e09ae1f095e7d4868d55d7a8bf846ebbc280498f8e37eb2d98a29718de1d",
+      "chapter_title": "NCCD",
+      "site_image": "assets/slide-updates/session-4-slide-19.png",
+      "pdf": "Source Slides/PL Primary - Session 4 - Learning Design.pdf"
+    },
+    {
+      "session": 5,
+      "slide": 15,
+      "title": "NCCD Meetings Tool Kit",
+      "requested_start": 1430,
+      "requested_end": 1491,
+      "start": 1430.76,
+      "end": 1491.2,
+      "png_sha256": "fa274632a4bb11834da232f356cf895cbf648a69f26845f9b2f6ff5b353409a8",
+      "chapter_title": "NCCD Meetings Tool Kit",
+      "site_image": "assets/slide-updates/session-5-slide-15.png",
+      "pdf": "Source Slides/PL Primary - Session 5 - Working in Partnership.pdf"
+    },
+    {
+      "session": 6,
+      "slide": 8,
+      "title": "Connections that continue",
+      "requested_start": 567,
+      "requested_end": 641,
+      "start": 567.16,
+      "end": 641.16,
+      "png_sha256": "cc8cd81779124a29e9523b0b58da33059d34ad31e346244cf601c85f4894b2e8",
+      "chapter_title": "Connections that continue",
+      "site_image": "assets/slide-updates/session-6-slide-8.png",
+      "pdf": "Source Slides/PL Primary - Session 6 - Flourishing and Full Circle.pdf"
+    },
+    {
+      "session": 6,
+      "slide": 10,
+      "title": "Feedback",
+      "requested_start": 666,
+      "requested_end": 723,
+      "start": 666.84,
+      "end": 723.68,
+      "png_sha256": "8e4878d3546daf9e88d1de419496aa54e9998cbf41fc99e67f858ad3eb026708",
+      "chapter_title": "Feedback",
+      "site_image": "assets/slide-updates/session-6-slide-10.png",
+      "pdf": "Source Slides/PL Primary - Session 6 - Flourishing and Full Circle.pdf"
+    }
+  ],
+  "files": {
+    "media/session-3.mp4": {
+      "bytes": 93629787,
+      "sha256": "1fd82289d576d9b03e2a78bb75c3e5d2a283cf7cc1d81c805b09c734c522fc8f"
+    },
+    "Source Slides/PL Primary - Session 3 - Autistic Experience at the Primary School.pdf": {
+      "bytes": 8385831,
+      "sha256": "b4540bad37a1dea667b41eb3fd7e5ba1c59032352c0109667877893c1b7b21e4"
+    },
+    "assets/slide-updates/session-3-slide-25.png": {
+      "bytes": 343061,
+      "sha256": "af03c421a58546af77c17856550c0d39d0952fef0c0f1f67645a58a7c67c13fe"
+    },
+    "assets/positive-autistic-identity.png": {
+      "bytes": 343061,
+      "sha256": "af03c421a58546af77c17856550c0d39d0952fef0c0f1f67645a58a7c67c13fe"
+    },
+    "media/session-4.mp4": {
+      "bytes": 42062014,
+      "sha256": "d5cac6821a415de4b208019931f22c192aa88c06116d21bea082bcfe4e3e2e4e"
+    },
+    "Source Slides/PL Primary - Session 4 - Learning Design.pdf": {
+      "bytes": 2366407,
+      "sha256": "61e99bff118eefcc8175a2da3bba8d7792f0c51203b1afebf8ad9b87b3b7fb1f"
+    },
+    "assets/slide-updates/session-4-slide-10.png": {
+      "bytes": 394353,
+      "sha256": "55c62a9e74e1f5cc561c07704c1230468ea5b69e3e353843571d07d4c41b8519"
+    },
+    "assets/slide-updates/session-4-slide-11.png": {
+      "bytes": 200948,
+      "sha256": "02bd687f31fb05976322e929f9791d649a6a85a66e003bc41356d13f34927159"
+    },
+    "assets/slide-updates/session-4-slide-13.png": {
+      "bytes": 203682,
+      "sha256": "c5021be8edfd9b73a25d066af3c996cfcca0ec8a5b71e0641441c3ee32d4ff27"
+    },
+    "assets/slide-updates/session-4-slide-19.png": {
+      "bytes": 99958,
+      "sha256": "a2f8e09ae1f095e7d4868d55d7a8bf846ebbc280498f8e37eb2d98a29718de1d"
+    },
+    "media/session-5.mp4": {
+      "bytes": 55270658,
+      "sha256": "57d561ff25a3c46a3c79dc20f7c3e6b4be7c639af9f29db14006b65273d3a718"
+    },
+    "Source Slides/PL Primary - Session 5 - Working in Partnership.pdf": {
+      "bytes": 3840597,
+      "sha256": "54d082d2d7a76d7692e32e3bfe70e89850c01deec1e8e750b104f6b1dcbe463d"
+    },
+    "assets/slide-updates/session-5-slide-15.png": {
+      "bytes": 221626,
+      "sha256": "fa274632a4bb11834da232f356cf895cbf648a69f26845f9b2f6ff5b353409a8"
+    },
+    "media/session-6.mp4": {
+      "bytes": 21338026,
+      "sha256": "dace6ab7ebc10ddd5a9e094fbc74f3e60483dabfd31e605dd30b2ac05c50d9f2"
+    },
+    "Source Slides/PL Primary - Session 6 - Flourishing and Full Circle.pdf": {
+      "bytes": 2045903,
+      "sha256": "8993584b91510cc1492829cdb740f6a88c90dd63183f1cbebda0ce731e639f4d"
+    },
+    "assets/slide-updates/session-6-slide-8.png": {
+      "bytes": 112535,
+      "sha256": "cc8cd81779124a29e9523b0b58da33059d34ad31e346244cf601c85f4894b2e8"
+    },
+    "assets/slide-updates/session-6-slide-10.png": {
+      "bytes": 61725,
+      "sha256": "8e4878d3546daf9e88d1de419496aa54e9998cbf41fc99e67f858ad3eb026708"
+    },
+    "media-manifest.json": {
+      "bytes": 2423,
+      "sha256": "b231e3c657ffad78bae3c48c780b76cce546cb07bcd0568e3ab909835294bbe3"
+    },
+    "index.html": {
+      "bytes": 343170,
+      "sha256": "1efab7687130ab34991b630b3579c78dd573932f66936a415a1e7c1cc878c361"
+    },
+    "resources.html": {
+      "bytes": 14315,
+      "sha256": "78155deb3fe12fc84b7d6ebcc3cb0d478fbce0823065d180974414b937aeadae"
+    }
+  },
+  "downloads": [
+    {
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-3.mp4",
+      "sha256": "0720c670a74823df53e8f5773837e800bdf02f7c85f8ae8f8cc4bf5236cd8321",
+      "bytes": 346507162,
+      "previous_sha256": "2ea98a8b8bfeaa0f2f3d6d07ae9adfd2683e822261465c5004eb5b4b1852ecc3"
+    },
+    {
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-4.mp4",
+      "sha256": "3e7f34d1e0bca1d7e6ac2e10237662ac75cfcb23a8138d3a2076459be6028af4",
+      "bytes": 108967286,
+      "previous_sha256": "98774afad874ee9c0a8b401bd6d1fd0f1032f0e3b70872cfb42c33c74bb20c24"
+    },
+    {
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-5.mp4",
+      "sha256": "20ad310c94b8c7b1daf5d4967850ef51aeb650c92f2783b313fa983bbf46158c",
+      "bytes": 143583666,
+      "previous_sha256": "f3461f15979326f0f4850ed7e2885ed8ae2e15e035908aa755dcced23dd95520"
+    },
+    {
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/session-6.mp4",
+      "sha256": "51da9a421658010708f38388cf24c8516357daff013064afb7fa87d6642346a3",
+      "bytes": 55760663,
+      "previous_sha256": "87e3c6665b8bcf403be057a90bbac7ff229c8dab4bd89c84324efdcc143b4b27"
+    },
+    {
+      "url": "https://github.com/CraigWrenasmir/phase-5-primary-education/releases/download/workshop-v1/full-workshop.mp4",
+      "sha256": "550e6fad0803526071bc807ac711acd3f3aa94a1b9f911ce631a35da5587b812",
+      "bytes": 1144895971,
+      "previous_sha256": "6b81445f2b053bd57dcb83496428f2d8edd850117119e9f0a3ad33f85c8732d8"
+    }
+  ]
+}
